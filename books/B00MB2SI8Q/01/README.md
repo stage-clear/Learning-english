@@ -59,7 +59,7 @@ __Does__ he play tennis?
 
 ## 第2文型
 
-主語 + 動詞 + 補語
+__主語 + 動詞 + 補語 __  
 
 > I __am__ happy.
 
@@ -126,7 +126,30 @@ __「主語を補う語 = 補語」__
   - 例) I believe my son honest.
   - 例) I found the book interesting.
 6. 「〜を[に]...させる」型: `make` `have` `let` `get` (使役動詞)
-  - make + 目的語 + 動詞の原形「（強制的に）〜に...させる
+  - make + 目的語 + 動詞の原形「（強制的に）〜に...させる」  
+    make + 目的語 + 過去分詞「〜を...させる[〜が...される」
+    - 例) My joke __made__ him laugh.
+  - have + 目的語 + 動詞の原形「〜に...させる[してもらう]」  
+    have + 目的語 + 現在分詞「〜を...させる[させておく]」  
+    have + 目的語 + 過去分詞「〜を...させる[してもらう]」/「〜を...される<受身・被害>」
+    - 例) I __had__ him rpair my PC.
+  - let + 目的語 + 動詞の原形「（本人の望み通りに）〜に...させる」
+    - 例) He __let__ me use his phone.
+  - get + 目的語 + to + 動詞の原形「〜に...させる[してもらう]」  
+    get + 目的語 + 現在分詞「〜を...させる[させておく]」
+    get + 目的語 + 過去分詞「〜を...させる[してもらう]」/「〜を...される<受身・被害>」
+    - 例) I __got__ him to repair my PC. (get の場合は to を忘れないこと)
+7. 「〜が...するのを見る[聞く・感じる]」型: `see` `watch` `hear` `feel` (知覚動詞)
+  - see[watch/hear/feel] + 目的語 + 動詞の原形  
+   「〜が...するのを見る[聞く・感じる」
+    - 例) I __felt__ the earth shake.
+  - see[watch/hear/feel] + 目的語 + 現在分詞 (-ing)  
+    「〜が...しているのを見る[聞く・感じる」
+　  - 例) I __saw__ him walking.
+　- see[watch/hear/feel] + 目的語 + 過去分詞 (-ed など)
+　  - 例) He __heard__ his name called.
+
+「知覚動詞」の場合も、__目的語がそれに続く部分の意味上の主語になる__。
 
 ```txt
 1. 補語が「名詞」の場合
