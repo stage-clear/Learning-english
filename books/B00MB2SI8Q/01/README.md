@@ -59,7 +59,7 @@ __Does__ he play tennis?
 
 ## 第2文型
 
-__主語 + 動詞 + 補語 __  
+__主語 + 動詞 + 補語__  
 
 > I __am__ happy.
 
@@ -176,4 +176,97 @@ She made him       sad.
 ```
 
 第5文型は「目的語」と「補語」の間位に「主語 + 述語動詞（...は〜である）」という関係がある。
+
+
+## 第3文型
+
+### Point 第3文型
+
+```txt
+主語 + 動詞 + 目的語
+(は)  (する)  (を)
+```
+
+### Point 「補語」と「目的語」の見分け方
+
+- __補語__ - `主語 = 補語` 例) He is a student. (第2文型) He = student
+- __目的語__ - `主語 ≠ 目的語` 例) He wrote a letter. (第3文型) He ≠ letter 
+
+__「補語」は、主語と補語がイコールで結ばれる__ 。
+__「目的語」は、主語と目的語がイコールで結ばれない__ 。
+（__「〜を」と訳せる語__ と覚えておくとよい）
+
+
+### Point 「自動詞」と「他動詞」
+
+- __他動詞__ - __目的語を必要とする動詞__ 例) I __played__ soccer. (第3文型)
+- __自動詞__ - __目的語を必要としない動詞__ 例) I __went__ to the store. (第1文型)
+
+
+自動詞の場合に、内容をもっと詳しく説明したかったら、to など前置詞を使って `went toe the store` などの形にすればよい。
+( __動詞の後に「前置詞 + 名詞」__ )
+
+
+### Point 自動詞と間違えやすい他動詞
+
+1. discuss A
+2. resemble A
+3. approach A
+4. enter A
+5. attend A
+6. obey A
+7. mention A
+8. marry A (= get married to A)
+9. reach A (= arrive at[in] A, get to A)
+10. answer A (= reply to A)
+
+
+## 第4文型
+
+```txt
+主語 + 動詞 + 直接目的語 + 関節目的語
+```
+
+### Point 「第4文型」と「第3文型」の関係
+
+- __第4文型__ - 主語(は) + 動詞(する) + 人(人に) + 物(物を)
+- __第3文型__ - 主語(は) + 動詞(する) + 物(物を) + to/for + 人(人に)
+
+to や for の後に来た名詞は、前置詞とひとまとまりになって __目的語ではなく修飾語になる__ 。(ゆえに第3文型になる)
+__to と for は、動詞によってどちらを使うかが決まる__
+
+### Point 動詞による「to」「for」「of」の使い分け
+
+1. to を使う動詞: `give` `lend` `send` `show` `teach` `tell` など
+  - 例) I'll give you a pencil. <第4文型>  
+    = I'll give a pencil to you. <第3文型>
+2. for を使う動詞: `buy` `get` `find` `make` `cook` など
+  - 例) She made me a cake. <第4文型>
+    = She made a cake for me. <第3文型>
+3. of を使う動詞: `ask` だけ
+  - 例) I asked him a question. <第4文型>
+    = I asked a question of him. <第3文型>
+
+__ask と、for を使う5つの動詞を押さえる__ こと。そうすれば、__残りのほとんどの動詞は to__ を使えばいい。
+
+### Point 「第4文型」と「第5文型」の見分け方
+
+- __第4文型__ - 人 ≠ 物 例) He bought me a book. __me ≠ book__
+- __第5文型__ - 目的語 = 補語 例) We call him Mike. __him = Mike__
+
+__第4文型__ は__「人 + 物」__ と押さえておく。そうすれば、「人 = 物」になるはずないから、
+__第5文型の「目的語 = 補語」と区別がつきます。
+
+
+## 第1文型
+
+```txt
+主語 + 動詞
+```
+
+There is a park near my school. <第1文型>
+a park が主語となり、is が述語動詞となる。
+near my school は前置詞のまとまりで修飾語となる。
+
+`There is ~.` の形は、__「不特定のものがある」ことを述べる表現方法__ なので、__主語には the や my などはつけない__
 
