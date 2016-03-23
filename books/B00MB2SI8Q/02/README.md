@@ -40,6 +40,7 @@ I met her last week.
 
 ### Point: 不規則動詞の変化
 
+```txt
 1. A-A-A 型 : cut - cut - cut
 2. A-B-A 型 : come - came - come
 3. A-B-B 型 : build - build - built
@@ -54,7 +55,7 @@ I met her last week.
             : dirve - drove - driben
             : break - broke - broken
             : be[am/is/are] - was/were - been
-
+```
 
 ## <a id="s2">#</a> 未来形
 
