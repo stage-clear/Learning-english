@@ -395,7 +395,7 @@ __「進行形」は「点」__ を表し、__「完了進行形」は「線」�
                 例) I will have been reading books for 2 hours by five.
 ```
 
-## <a id="s06">#</a> 時・条件を表す副詞節
+## <a id="s6">#</a> 時・条件を表す副詞節
 
 __時・条件の副詞節__
 
