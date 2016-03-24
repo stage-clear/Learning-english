@@ -136,11 +136,13 @@ I have lived in Tokyo since 1998.
 
 ### Point: 「現在完了」の基本形
 
-- 肯定文 - have[has] + 過去分詞 ~
-- 否定文 - have[has] + not + 過去分詞 ~
-- 疑問文 - Have[Has] + 主語 + 過去分詞 ~ ?
-  - Yes, 主語 + have[has].
-  - No, 主語 + haven't[hasn't].
+```txt
+肯定文  have[has] + 過去分詞 ~
+否定文  have[has] + not + 過去分詞 ~ 
+疑問文  Have[Has] + 主語 + 過去分詞 ~ ?
+  Yes, 主語 + have[has].
+  No, 主語 + haven't[hasn't].
+```
 
 __現在完了には4つの使い方__ がある。
 
