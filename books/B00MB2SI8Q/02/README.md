@@ -232,15 +232,17 @@ __「完了」でよく使う語__
 
 ### Point: just /already / yet などの位置
 
+```txt
 1. just, already, never - have[has] と過去分詞の間
-  - have[has] just + 過去分詞
-  - have[has] already + 過去分詞
-  - have[has] never + 過去分詞
-2. yet - 文末(疑問文・否定文で使われる)
-  - Have[Has] + 主語 + 過去分詞 ~ + yet?
-  - 主語 + have[has] + not + 過去分詞 ~ + yet?
+   - have[has] just + 過去分詞
+   - have[has] already + 過去分詞
+   - have[has] never + 過去分詞
+2. yet - 文末(疑問文・否定文で使われる) 
+   - Have[Has] + 主語 + 過去分詞 ~ + yet?
+   - 主語 + have[has] + not + 過去分詞 ~ + yet?
 
-already や just は haven't の not と同じ位置に置く。
+# already や just は haven't の not と同じ位置に置く
+```
 
 __「結果」を表す現在完了__
 
