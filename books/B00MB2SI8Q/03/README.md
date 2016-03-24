@@ -35,8 +35,10 @@ __助動詞の働き__ 助動詞という字をよく見ると、「動詞を助
 ```txt
 1. 助動詞は「動詞の原形」の前に置く
    (主語 + 助動詞 + 動詞の原形)
+
 2. 助動詞は主語がなにであっても変化しない
    (3単現の「s」はつかない)
+
 3. 助動詞は2つ重ねない
    (× I will can ~. × He will must ~.)
 ```
@@ -82,9 +84,11 @@ must             | ~しなければならない <義務・当然>
 1. must + have + 過去分詞
    「~したにちがいない」<断定的推量>
    例) He must have done so. (彼はそうしたにちがいない)
+
 2. may + have + 過去分詞
    「~したかもしれない」<推量>
    例) He may have done so (彼はそうしたかもしれない)
+
 3. cannot + have + 過去分詞
    例) He can't have done so (彼がそうしたはずがない)
 ```
@@ -111,9 +115,11 @@ You shoud have watched the program.
 1. shoud + have + 過去分詞
    「~すべきだったのに(実際はしなかった)」
    例) You shoud have seen the film. (君はその映画を見るべきだったのに[見なかった])
+
 2. shoud not + have + 過去分詞
    「~すべきではなかったのに(実際はしてしまった)」
    例) You should not have done it. (君はそれをすべきではなかったのに[してしまった])
+
 3. need not + have + 過去分詞
    「~する必要はなかったのに(実際はしてしまった)」
    例) You need not have come here. (君はここに来る必要はなかったのに[やってきた])
@@ -193,25 +199,31 @@ had と better の間に not を割り込ませることはできない。
 1. need 「~する必要がある」
    例) Need we clean this room right away?
    (私たちは今すぐこの部屋を掃除する必要がありますか?)
+
 2. need not = don't[doesn't] have to 「~する必要はない」
    例) You need not[don't have to] study today.
    (君は今日、勉強する必要はない)
+
 3. should = ought to 「<義務・当然> ~すべきである」
    例) You should[ought to] study harder.
    (君はもっと一生懸命に勉強すべきだ)
 4. should not = ought not to 「~すべきではない」
    例) You should not[ought not to] go there.
    (君はそこへ行くべきではない)
+
 5. Would you ~ ? 「~していただけませんか?」
    例) Would you pass me the salt?
    (塩をとっていただけませんか?)
+
 6. Would you like ~ ? 「~はいかがですか?」
    例) Would you like some more tea?
    (お茶をもう少しいかがですか?)
    * これらの would は過去を意味するのではなく、丁寧な質問表現
+
 7. Would like to ~ 「(できたら) ~したい」
    例) I would like to rent a car. 
    (車を借りたいのですが)
+
 8. would like A to ~ 「(できたら) A に~していただきたい」
    例) I would like you to go there.
    (あなたにそこへ行っていただきたいのですが)
@@ -223,9 +235,11 @@ had と better の間に not を割り込ませることはできない。
 1. had better ~ 「~したほうがいい」
    例) You had better start at once.
    (君はすぐに出発したほうがいい)
+
 2. had better not ~ 「~しないほうがいい」
    例) You had better not do such a thing.
    (君はそんなことしないほうがいい)
+
 3. used to ~ 「(以前は)よく~したものだ」
    例) I used to swim in this river.
    (私はよくこの川で泳いだものだ)
@@ -233,17 +247,21 @@ had と better の間に not を割り込ませることはできない。
    例) I am used to sitting up late.
    (私は遅くまで起きているのには慣れている)
    * 上の「used to」は助動詞でしたの「used」は形容詞
+
 4. cannot ... too ~ 「いくら~しても...しすぎることはない」
    例) You cannot be too careful about your health.
    (健康にはいくら注意してもしすぎることはない)
+
 5. may well ~ 「~するのももっともだ」「おそらく~するだろう」
    例) He may well say so. 
    (彼がそう言うのももっともだ)
    例) It may well snow tonight.
    (今夜はおそらく雪だろう)
+
 6. may as well ~ 「~したほうがいい」
    例) You may as well go at once.
    (君はすぐに行ったほうがいい)
+
 7. might as well A as B 「BするくらいならAするほうがましだ」
    例) You might as well throw your money into the sea as lend it to him.
    (君は彼にお金を貸すくらいなら、海に投げすてるほうがましだ)
@@ -251,6 +269,77 @@ had と better の間に not を割り込ませることはできない。
 ```
 
 ## <a id="s6">#</a> 命令文と Let's の文
+
+```txt
+Let's go to the party.
+パーティーに行きましょう
+```
+
+- 命令文は主語の You を省略してしまう
+- 命令文は、主語を使わず __動詞の原形ではじめる__ のが大きな特徴
+
+命令文を作るときのポイントは、たった2つしかない。
+それは、__主語を消すこと__ と、__動詞を「原形」に直す(動詞の「原形」ではじめる)__ こと。
+
+```txt
+例)
+1. You must study math hard.
+   (あなたは数学を一生懸命に勉強しなければならない)
+
+2. You are kind to old people.
+   (あなたはお年寄りに親切だ)
+
+問題) 命令文にかえなさい
+1. Study math hard.
+2. Be kind to old people.
+```
+
+__「否定の命令文」は、動詞の原形の前に Don't や Never を置けばいい__ 。
+
+
+### Point: 命令文と Let's の文
+
+```txt
+1. 動詞の原形~. 「~しなさい」
+   例) Open the door. (ドアを開けない)
+   例) Be kind to your parents. (両親には親切にしなさい)
+
+2. Don't + 動詞の原形 ~ . <禁止> 「~してはいけない」
+   Never + 動詞の原形 ~ . <強い禁止> 「決して ~ してはいけない」
+   例) Don't open the door. (ドアを開けてはいけない)
+   例) Never tell a lie (決して嘘をついてはいけない)
+
+3. Let's + 動詞の原形 ~. <勧誘> 「~しましょう」
+  例) let's go for a walk. (散歩に行きましょう)
+      --- Yes, let's. (はい、そうしましょう)
+      --- No, let's not. (いいえ、よしましょう)
+```
+
+Let's は Shall we ~? とだいたい同じ意味となる。
+
+__命令文, and ~ / 命令文, or ~__
+
+```txt
+Hurry up, or you will be late.
+急ぎなさい、さもないと遅れますよ
+```
+
+### Point: 命令文 +, and / 命令文 +, or ~
+
+```txt
+1. 命令文 +, and ~.
+   「...しなさい、そうすれば~」<良い内容>
+   例) Go home right now, and you can meet him.
+   (今すぐ家に帰りなさい、そうすれば彼に会えるでしょう)
+
+2. 命令文 +, or ~.
+   「...しなさい、さもないと~」<悪い内容>
+   例) Go home right now, or you can't meet him.
+   (今すぐ家に帰りなさい、さもないと彼に会えないでしょう)
+```
+
+__and の後には相手にとって「良い内容」__ が続き、__or の後には「悪い内容」__ が続く
+
 
 
 
