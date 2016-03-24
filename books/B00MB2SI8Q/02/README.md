@@ -119,8 +119,14 @@ When she came in, I was watching TV.
 
 #### Point: 「過去進行形」と「未来進行形」
 
-- 過去進行形 - was[were] + ~ing 「~していた」 例) It __was raining__ when my father came back home.
-- 未来進行形 - will be + ~ing 「~しているだろう」 例) He will be studying at this time tomorrow.
+```txt
+過去進行形  was[were] + ~ing 
+            「~していた」 
+            例) It was raining when my father came back home.
+未来進行形  will be + ~ing
+            「~しているだろう」 
+            例) He will be studying at this time tomorrow.
+```
 
 __過去進行形__ も __未来進行形__ どちらも `when my father came back home` `at this time tomorrow` など、基準となる時を表す語句が文中に示されていることが多い。
 
