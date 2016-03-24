@@ -21,8 +21,12 @@ He was busy yesterday.
 
 ### Point: be 動詞の過去形
 
-- am, is の過去形 - `was` (主語が1人称・3人称の単数) 例) I __was__ sleepy that time.
-- are の過去形 - `were` (主語が2人称と複数) 例) They __were__ kind to me.
+```txt
+am, is の過去形: was (主語が1人称・3人称の単数) 
+                 例) I was sleepy that time.
+are の過去形   : were (主語が2人称と複数) 
+                 例) They were kind to me.
+```
 
 __一般動詞の過去形__
 
@@ -71,17 +75,23 @@ We will go to England next year.
 
 #### Point: 「未来形」 = 主語 + will + 動詞の原形
 
-1. 単純未来 - 「〜だろう」 例) It __will__ rain.
-2. 意思未来 - 「〜するつもりだ」 例) I __will__ visit my grandmother.
+```txt
+1. 単純未来: 「〜だろう」 
+             例) It __will__ rain.
+2. 意思未来: 「〜するつもりだ」 
+             例) I __will__ visit my grandmother.
+```
 
 __shall__ は __shall I ~?__ と __shall we ~ ?__ の2つの疑問形だけを覚えておけばいい
 
 
 #### Point: be going to = will
 
-- 肯定文 - I __will__ play baseball. = I __am going to__ play baseball.
-- 否定文 - He __won't__ play baseball. = He __isn't going to__ play baseball.
-- 疑問文 - __Will__ you play baseball? = __Are__ you __going to__ baseball?
+```txt
+肯定文: I will play baseball. = I am going to play baseball.
+否定文: He won't play baseball. = He isn't going to play baseball.
+疑問文: Will you play baseball? = Are you going to baseball?
+```
 
 
 ## <a id="s3">#</a> 進行形
@@ -95,7 +105,10 @@ We are walking along the river.
 
 #### Point: 「現在進行形」　= be 動詞（現在形） + 動詞の ing 形
 
-- 現在進行形 - am[is, are] + ~ing 「〜している」「〜しているところだ」 例) I __am cleaning__ my room.
+```txt
+現在進行形: am[is, are] + ~ing 「〜している」「〜しているところだ」 
+            例) I __am cleaning__ my room.
+```
 
 #### Point: 動詞の進行形「ing」のつけ方
 
