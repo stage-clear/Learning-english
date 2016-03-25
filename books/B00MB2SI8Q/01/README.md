@@ -14,7 +14,7 @@
 ## <a id="s1">#</a> be 動詞と一般動詞
 
 ```txt
-> I am a student.
+I am a student.
 ```
 
 be動詞以外のすべての動詞が一般動詞と考える。
@@ -22,8 +22,8 @@ be動詞以外のすべての動詞が一般動詞と考える。
 ### Point: 動詞の種類
 
 ```txt
-be動詞  : `am, is, are` （現在形）
-一般動詞: `go, play, have` など
+be動詞   : am, is, are （現在形）
+一般動詞 : go, play, have など
 ```
 
 ## <a id="s2">#</a>  3単現の s
