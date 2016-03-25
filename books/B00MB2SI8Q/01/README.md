@@ -19,12 +19,16 @@ be動詞以外のすべての動詞が一般動詞と考える。
 
 ### Point: 動詞の種類
 
-- be動詞 -  `am, is, are` （現在形）
-- 一般動詞 - `go, play, have` など
+```txt
+be動詞  : `am, is, are` （現在形）
+一般動詞: `go, play, have` など
+```
 
 ## <a id="s2">#</a>  3単現の s
 
-> She __goes__ to school.
+```txt
+She goes to school.
+```
 
 __Point: 一般動詞に「s[es]」をつける条件__
 
