@@ -232,7 +232,7 @@ He has many girlfriends.
 ```txt
    |      多くの       |  少しの  | ほとんどない | いくらかの | 少しもない 
 --------------------------------------------------------------------------
-数 | many | a lotof    |  a few   |     few      |    some    |
+数 | many | a lot of   |  a few   |     few      |    some    |
 ----------              -------------------------             |    no
 量 | much | plentry of | a little |    little    |    (any)   |
 
@@ -269,5 +269,54 @@ __装飾するとは、動詞、形容詞、他の副詞を説明し、意味を
 2. 形容詞を装飾する   | 例) The cat is very pretty.
 3. 他の副詞を装飾する | 例) My father worked very hard.
 ```
+
+__頻度を表す副詞__
+
+```txt
+I sometimes exercise.
+私は時々運動する。
+```
+
+### Point: 「頻度を表す副詞」の場所
+
+```txt
+1. be 動詞・助動詞の「直後」に置く
+   例) I am always busy.
+       You must always get up at six.
+2. 「一般動詞」の「直前」に置く
+   例) I always go to bed before eleven.
+3. sometimes → 「文頭や文末」に置くこともある
+   例) Sometimes he goes to the library.
+```
+
+__always は100%、never を0% とすると、usually は 80% で often は 60%__
+
+__形容詞 → 副詞の変化__
+
+```txt
+He is a good singer. He sings well.
+彼はよい歌手です。彼は上手に歌う。
+```
+
+### Point: 「形容詞」→「副詞」の変化
+
+```txt
+1. good と well
+   good (よい、上手な) <形容詞>
+   well (よく、上手に) <副詞>
+   例) She is a good swimmer. = She swims well.
+2. 形容詞と副詞が同じ形のもの
+   hard(熱心な、熱心に)、 fast(速い、速く)、early(早い、早く)など
+   例) She is a fast runner.
+       She runs fase.
+3. 「形容詞 + ly」のもの
+   例) kind(親切な) → kindly(適切に)
+       slow(遅い) → slowly(遅く) など
+4. 「形容詞の語尾 y」→ y を i に変えて + ly にするもの
+   happy(幸福な) → happily(幸福に)
+   easy(簡単な) →  easily(簡単に) など
+```
+
+`a good swimmer ⇔ swims well` `a fast runner ⇔ runs fast` 
 
 ## <a id="s5">#</a> 感嘆文
