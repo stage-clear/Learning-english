@@ -292,12 +292,13 @@ __現在完了は、はっきりと過去を表す語句とは一緒に使えな
 
 ### Point: 現在完了で使えない語句
 
-- when (いつ) 
-  - when と聞かれたら yesterday や last week と答える。つまり __when は特定の日時を聞いている__
+```txt
+- when (いつ) - when と聞かれたら yesterday や last week と答える。つまり when は特定の日時を聞いている
 - yesterday (昨日)
 - ~ ago (~前)
 - last ~ (この前~)
 - just now (たった今)
+```
 
 ```txt
 ○ I bought this book yesterday.
@@ -446,7 +447,7 @@ __「時または条件を表す副詞節の中では未来時制は使えない
 ```txt
 時を表す副詞説の中では、未来のことでも現在時制を使う
 例) I will tell you when she comes back <副詞節>
-            ↑___________|    (× will come)
+            └─────────┘    (× will come)
     (彼女が帰ってきたら、私はあなたに知らせます)
 
     Do you know when she will come next time ? <名詞節>
@@ -461,7 +462,7 @@ __「時または条件を表す副詞節の中では未来時制は使えない
 条件を表す副詞節の中では、未来のことでも現在時制を使う
 
 例) I will stay at home if it rains tomorrow. <副詞節>
-            ↑____________|    (× will rain)
+            └───────────┘     (× will rain)
     (もし明日雨が降れば、私は家にいるつもりだ)
     
     I don't know if it will rain tomorrow.
