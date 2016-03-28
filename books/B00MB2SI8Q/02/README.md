@@ -77,9 +77,9 @@ We will go to England next year.
 
 ```txt
 1. 単純未来: 「〜だろう」 
-             例) It __will__ rain.
+             例) It will rain.
 2. 意思未来: 「〜するつもりだ」 
-             例) I __will__ visit my grandmother.
+             例) I will visit my grandmother.
 ```
 
 __shall__ は __shall I ~?__ と __shall we ~ ?__ の2つの疑問形だけを覚えておけばいい
@@ -107,7 +107,7 @@ We are walking along the river.
 
 ```txt
 現在進行形: am[is, are] + ~ing 「〜している」「〜しているところだ」 
-            例) I __am cleaning__ my room.
+            例) I am cleaning my room.
 ```
 
 #### Point: 動詞の進行形「ing」のつけ方
