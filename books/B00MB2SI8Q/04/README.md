@@ -320,3 +320,39 @@ He is a good singer. He sings well.
 `a good swimmer ⇔ swims well` `a fast runner ⇔ runs fast` 
 
 ## <a id="s5">#</a> 感嘆文
+
+__感嘆文の作り方__
+
+```txt
+What a beautiful rose this is!
+これはなんて美しいバラなのだろう！
+```
+
+```txt
+例)
+1. She is very pretty girl.
+   → What a pretty girl she is!
+2. She is very pretty.
+   → How pretty she is!
+
+# 名詞の有無が What と How ではじまる文の構文上の大きな違い
+```
+
+### Point: 「感嘆文」への書き換えの順序
+
+```txt
+1. very を消す
+   例) She is a ~~very~~ pretty girl.
+       She is ~~very~~ pretty.
+2. very の直後にある「形容詞 + 名詞」を探す
+   - ある場合 → What ~ !
+   「形容詞 + 名詞」を What の後につける
+   例) What a pretty girl
+   - ない場合 → How ~ !
+   例) How pretty.
+3. 文頭にある「主語 + 動詞」を (2) の直後に付ける
+   例) What a pretty girl she is!
+   例) How pretty she is!
+```
+
+名詞が見つかれば、必ず直前に形容詞があるから __「形容詞 + 名詞」探し__ は簡単なんだ。
