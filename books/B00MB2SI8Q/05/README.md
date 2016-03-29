@@ -240,7 +240,7 @@ She has no more than 100 yen.
    (ないと思ってたのに、実際は 1,000円ものお金があると喜んでいる)
 ```
 
-- __not や no の後に more がくると「否定的」なないようになり、less がくると「肯定的」な内容となる
+- __not や no の後に more がくると「否定的」なないようになり、less がくると「肯定的」な内容となる__
 - not や no は否定語なので「マイナス」イメージ
 - more は逆に「プラス」なイメージ
 
@@ -252,4 +252,62 @@ __Nothing[No ~] + 比較級 + than__
 Nothing is more precious than love.
 愛ほど尊いものはない
 ```
+
+```txt
+例)
+1. He is the tallest boy in the class.
+2. (  ) other boy in the class is taller than he.
+```
+
+- __No other や Nothing を使って最上級の意味を表す形__
+
+### Point: 原級・比較級による「最上級」の表現
+
+```txt
+nothing[no (other) ...] + as[so] + 原級 + as A
+nothing[no (other) ...] + 比較級 + than A 「Aほど~なものはない」
+
+例) Nothing is as[so] precious as health. <原級>
+例) Nothing is more precious than health. <比較級>
+    (健康ほど貴重なものはない)
+      ↓
+    Health is the most precious thing (of all). <最上級>
+```
+
+
+__the + 比較級__
+
+```txt
+He is the older of the two.
+彼は2人のうちで年上のほうだ。
+```
+
+### Point: the + 比較級
+
+```txt
+the + 比較級 + of the two (+ 名詞)
+例) She is the younger of the two sisters.
+    (彼女は2人の姉妹のうちで若いほうだ)
+    「2人のうち若い方」といえば、1人に限定されるので必ず the が必要になります
+
+the + 比較級 ..., the + 比較級~ 「...すればするほど、ますます~」
+例) The higher we climbed, the cooler it became.
+    (高く登れば登るほど、ますます涼しくなった)
+    The sooner, the better. 
+    (早ければ早いほど良い)
+```
+
 ## <a id="s6">#</a> その他の比較表現
+
+__比較を使った慣用表現___
+
+```txt
+It is getting warmer and warmer.
+だんだん暖かくなってきている
+```
+
+### Point: 「原級」を使った慣用表現
+
+```txt
+
+```
