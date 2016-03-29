@@ -309,5 +309,25 @@ It is getting warmer and warmer.
 ### Point: 「原級」を使った慣用表現
 
 ```txt
+1. as many[much] as + 数詞 ~ 「~もの多くの数[量]」
+   例) write as many as ten books. (10冊もの本を書く)
+
+2. not so much A as B
+   例) not so much a writer a teacher.
+
+3. not so much as + 動詞の原型 「~さえしない」
+  例) not so much as say goodbye
+```
+
+### Point: 「比較級」を使った慣用表現
+
+```txt
 
 ```
+
+### Point: 「最上級」を使った慣用表現
+
+```txt
+
+```
+
