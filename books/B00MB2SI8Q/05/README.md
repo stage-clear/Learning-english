@@ -309,25 +309,65 @@ It is getting warmer and warmer.
 ### Point: 「原級」を使った慣用表現
 
 ```txt
-1. as many[much] as + 数詞 ~ 「~もの多くの数[量]」
-   例) write as many as ten books. (10冊もの本を書く)
+1. as many[mach] as + 動詞 ~ 「~もの多くの数[量]」
+   例) write as many as then books (10冊もの本を書く)
 
-2. not so much A as B
-   例) not so much a writer a teacher.
+2. not so much A as B 「AというよりはむしろB」
+   例) not so much a writer as a teacher (作家というよりはむしろ教師)
 
-3. not so much as + 動詞の原型 「~さえしない」
-  例) not so much as say goodbye
+3. not so much as + 動詞の原形 「~さえしない」
+   例) not so much as say goodbye (さよならを言うことさえしない)
+
+4. without so much as ~ ing 「~さえしないで」
+   例) without so much as greeting (挨拶さえせずに)
+
+5. as[so] long as ~ 「=する限り、~しさえすれば」
+   例) as long as I live (私が生きている限り)
+
+6. as far as ~ 「~まで」(場所)
+   例) as far as Tokyo Station (東京駅まで)
+
+7. as[so] far as ~ 「~する限りでは」
+   例) as far as I am concerned (私に関する限りでは)
 ```
 
 ### Point: 「比較級」を使った慣用表現
 
 ```txt
+1. 比較級 + and + 比較級 「だんだん[ますます]...」
+   例) She became more and more beautiful. 
+   (彼女はますます美しくなった)
 
+2. 肯定文, much[still] more ~ 「...する、まして~する」
+   例) She can speak German, much more English.
+   (彼女はドイツ語が話せる、まして英語はなおさら話せる)
+
+3. 否定文, much[still] less ~ 「...しない、まして~しない」
+   例) She can't speak English, much less German.
+   (彼女は英語が話せない、ましてドイツ語はなおさら話せない)
+
+4. ...(all) the better[more] for ~ 「~のために、それだけ一層...」
+   例) He likes her all the better for her faults.
+   (彼女には欠点があるから、彼はそれだけ一層彼女が好きだ)
+
+5. ...none the less for ~ 「~であるが、それでもやはり...」
+   例) He likes her none the less for her faults.
+   (彼女には欠点があるが、それでもやはり彼は彼女が好きだ)
 ```
 
 ### Point: 「最上級」を使った慣用表現
 
 ```txt
+1. not in the least 「少しも~ない」
+   例) I'm not in the least sleepy.
+   (私は少しも眠くない)
 
+2. make the most of ~ 「(有利な状況で) ~を最大限に活用する」
+   例) We must make the most of this good chance.
+   (私たちはこの好機を最大限利用せねばならない)
+
+3. make the best of ~ 「(不利な状況) ~を最大限に活用する」
+   例) We must make the best of what little money we have.
+   (私たち、なけなしのお金を最大限利用せねばならない)
 ```
 
