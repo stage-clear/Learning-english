@@ -7,7 +7,7 @@
 4. [x] [名詞・代名詞・形容詞・副詞](04/README.md)
 5. [x] [比較](05/README.md)
 6. [x] [受動態](06/README.md)
-7. [ ] [疑問文](07/README.md)
+7. [x] [疑問文](07/README.md)
 8. [ ] [不定詞・動名詞](08/README.md)
 9. [ ] [関係詞・分詞](09/README.md)
 10. [ ] [仮定法](10/README.md)
