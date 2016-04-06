@@ -239,5 +239,26 @@ You can go wherever you like.
 # (___) の後に動詞が続くときは who で、主語 + 動詞のときは whom が来る
 ```
 
+### Point: 複合関係代名詞の種類
+
+```
+1. 名詞と同じ働きをする (主語・目的語になる)
+   - whoever = anyone who 「~する人は[を]誰でも」
+   - whomever = anyone whom (whoever の目的格)
+   - whatever = anything that 「~するもの[こと]は何でも」
+   - whichever = any[either] one that 「~するものはどれでも」
+   例) Do whatever you like. = Do anything that you like.
+       (好きなことは何でもしなさい)
+
+2. 副詞と同じ働きをする接続詞の役割
+   - whoever = no matter who 「たとえ誰が~しても」
+   - whomever = no matter whom 「たとえ誰を[に]~しても」
+   - whatever = no matter what 「たとえ何が[を]~しても」
+   - whichever = no matter which 「たとえどちらが[を]~しても」
+   例) Whatever you (may) do, do your best.
+       (たとえ何をするにしても、最善を尽くしなさい)
+```
+
+
 ## <a id="s2">#</a> 関係副詞
 ## <a id="s3">#</a> 分詞
