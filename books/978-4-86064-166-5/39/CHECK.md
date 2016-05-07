@@ -37,18 +37,6 @@
 - [ ] 私が彼から受け取るEメールはたいていとても短い
 
 
-I ate the cake on the table.
-I ate the cake which was on the table
-I saw a bird flying in the sky.
-I saw a bird which was flyng in the sky.
-I want a car made in Italy.
-I want a car which was made in Italy.
-I read a book whose title is "Man and space".
-Is this the key which you are looking for?
-The city which impressed me most which is Roma.
-The e-mail I received from him is very short.
-
-
 ## 文法ポイントを身につけたか
 
 - [ ] This is the cake (who / which) was made by her.
