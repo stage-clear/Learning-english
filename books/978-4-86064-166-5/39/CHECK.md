@@ -23,7 +23,15 @@
 - [ ] The e-mails I receive from him are usually very short.
 
 
-## 日本文
+## 文法ポイントを身につけたか
+
+- [ ] This is the cake (who / which) was made by her.
+- [ ] I saw a house (which / whose) roof was green.
+- [ ] I read a letter which (written / was written) in English.
+- [ ] The book which I bought (was difficult / difficult).
+
+
+## 下の日本文を英文にできるか
 
 - [ ] 私はテーブルの上のそのケーキを食べた (前置詞)
 - [ ] 私はテーブルの上にそのケーキを食べた (関係代名詞)
@@ -35,14 +43,6 @@
 - [ ] これは君が探しているその鍵ですか
 - [ ] 最も印象深い都市はローマです
 - [ ] 私が彼から受け取るEメールはたいていとても短い
-
-
-## 文法ポイントを身につけたか
-
-- [ ] This is the cake (who / which) was made by her.
-- [ ] I saw a house (which / whose) roof was green.
-- [ ] I read a letter which (written / was written) in English.
-- [ ] The book which I bought (was difficult / difficult).
 
 
 * * *
