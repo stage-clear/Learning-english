@@ -9,6 +9,53 @@
 - [ ] 彼が出したその答えは間違っていた `____ (which) ____ was ____.`
 - [ ] これは君が買ったその車ですか `Is ____ which ____.`
 
+## 下の英文が理解できるか
+
+- [ ] I ate the cake on the table.
+- [ ] I ate the cake which was on the table.
+- [ ] I saw a bird flying in the sky.
+- [ ] I saw a bird which was flying in the sky.
+- [ ] I want a car made in Italy.
+- [ ] I want a car which made in Italy.
+- [ ] I read a book whose title was "Man and Space".
+- [ ] Is this the key you are looking for?
+- [ ] The city which impressed me most is Rome.
+- [ ] The e-mails I receive from him are usually very short.
+
+
+## 日本文
+
+- [ ] 私はテーブルの上のそのケーキを食べた (前置詞)
+- [ ] 私はテーブルの上にそのケーキを食べた (関係代名詞)
+- [ ] 私は空を飛んでいる鳥を見た (準動詞)
+- [ ] 私は空を飛んでいる鳥を見た (関係代名詞)
+- [ ] 私はイタリア製の車が欲しい (準動詞)
+- [ ] 私はイタリア製の車が欲しい (関係代名詞)
+- [ ] 私は「人と宇宙」という題名の本を読んだ
+- [ ] これは君が探しているその鍵ですか
+- [ ] 最も印象深い都市はローマです
+- [ ] 私が彼から受け取るEメールはたいていとても短い
+
+
+I ate the cake on the table.
+I ate the cake which was on the table
+I saw a bird flying in the sky.
+I saw a bird which was flyng in the sky.
+I want a car made in Italy.
+I want a car which was made in Italy.
+I read a book whose title is "Man and space".
+Is this the key which you are looking for?
+The city which impressed me most which is Roma.
+The e-mail I received from him is very short.
+
+
+## 文法ポイントを身につけたか
+
+- [ ] This is the cake (who / which) was made by her.
+- [ ] I saw a house (which / whose) roof was green.
+- [ ] I read a letter which (written / was written) in English.
+- [ ] The book which I bought (was difficult / difficult).
+
 
 * * *
 
@@ -28,3 +75,15 @@ __1度目__
 4. watched → saw
 5. 「出した」がわからなかった → gave, mistaking → wrong
 6. the → this
+
+英語 → 日本語
+
+1. the を訳すのを忘れた
+9. 「最高の印象付けた」 → 「最も印象深い」
+10. usually の訳) 「いつも」 → 「たいてい」
+
+日本語 → 英語
+
+7. is → was
+8. 関係代名詞を省略し忘れた which
+10. e-mail → e-mails, received →　receive, is → are, usually の忘れ
