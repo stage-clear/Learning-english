@@ -49,11 +49,11 @@ Tom passed me a ball.
 
 ## 第5文型 `S V O C` - `※ O = C`
 - 主語[名詞] + 述語[動詞] + 目的語[名詞] + 補語[名詞/形容詞]  
-- 訳1) S が O を C だと V。
+- 訳) S が O を C だと V。
   - 「思考」に関するもの。acknowledge, think, believe, consider, find, guiess, reconize, regard...
-- 訳2) S が O を C に V。
+- 訳) S が O を C に V。
   - 「作為」に関するもの。make, set, keep, leave
-- 訳3) S が O を C と V。
+- 訳) S が O を C と V。
   - 「呼称」に関するもの。call, name, title
 
 ```txt
