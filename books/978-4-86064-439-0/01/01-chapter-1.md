@@ -142,3 +142,7 @@ They left Bob is without money.
 ```txt
 Bob was left without money <by them>.
 ```
+
+* * * 
+
+復習 : 修飾語まで <P44>
