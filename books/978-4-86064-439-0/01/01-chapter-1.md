@@ -98,4 +98,5 @@ The boy was told a secret <by Meg>.
 ```txt
 Bob was thought to be a genius <by Meg>.
 Bob was left alone <by them>.
+The player is called BIG ONE <by us>.
 ```
