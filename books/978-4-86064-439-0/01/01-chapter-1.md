@@ -263,6 +263,8 @@ There are three books on the desk.
 
 <img src="fig/品詞のまとめ.png" width="640px"/>
 
+__前置詞句のはたらき = 形容詞のはたらき + 副詞のはたらき__
+
 
 ## 名詞、動詞、前置詞に関する補足
 
