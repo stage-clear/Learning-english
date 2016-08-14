@@ -357,6 +357,6 @@ My success was due to your advice.
 
 助動詞が加わると、直後の動詞が現在系、過去形ではなくなる。
 
-### ここまでの文の名称とここからの変形
+## ここまでの文の名称とここからの変形
 
 <img src="fig/文の名称.png" width="640px"/>
