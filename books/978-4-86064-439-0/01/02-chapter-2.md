@@ -3,11 +3,15 @@
 「従位接続詞 + 文」でひとまとまりで、SやOや修飾語などの要素にまります。  
 このひとまとまりを「節」と言います。
 
+<img src="fig/従位接続詞の一覧表.png" width="600"_>
+
 ## 1. 名詞節を形成する従位接続詞
 ### A-0 that, whether, if
 #### that 節
 that 節はは、S, C, O, 前O のいずれかとしてはたらきます。  
 that は「こと」「の」と訳します。
+
+<img src="fig/従位接続詞_A-1_that.png" width="600"/>
 
 - __That Bob is a doctor__ is widely known.  
   <sup>(ボブが医者だということは広く知られている)</sup>
@@ -22,6 +26,8 @@ that は「こと」「の」と訳します。
 
 #### wheter, if
 if 節は例外的に「Oとしてしかはたらかない名詞節」です。
+
+<img src="fig/従位接続詞-A_0-whether_if.png" width="600"/>
 
 - The main question is __whether this incect can fly or not__.  
   <sup>(主な疑問は、この昆虫が飛べるか飛べないかということだ)</sup>
