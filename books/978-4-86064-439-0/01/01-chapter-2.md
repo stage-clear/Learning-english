@@ -91,7 +91,7 @@ Is he a medical doctor, a dentist or a vet?
 
 ### 1. 平叙文の中で S としてはたらいている部分を尋ねる
 
-1. 尋ねたい部分を who, what, which に代える
+<img src="fig/疑問詞疑問文の手順_1.png" width="640"/>
 
 ```
    Bob made this chair.
@@ -110,9 +110,7 @@ who, what, which は S としてはたらきます。
 
 ### 2. 平叙文の中で C としてはたらいている部分を尋ねる
 
-1. 尋ねたい部分を who, what, which に代える
-2. who, what, which を文頭に移動させる
-3. be 動詞または助動詞を S の前に出す
+<img src="fig/疑問詞疑問文の手順_2.png" width="640"/>
 
 ```
    This is a radio.
@@ -131,11 +129,7 @@ who, what, which は C としてはたらきます。
 
 ### 3. 平叙文で O としてはたらいている部分を尋ねる
 
-1. 尋ねたい部分を who, what, which に代える
-2. who, what, which を文頭に移動させる
-3. be 動詞または助動詞を S の前に出す
-
-* who ではなく whom を用いることも可能
+<img src="fig/疑問詞疑問文の手順_3.png" width="640"/>
 
 ```
    Meg will choose Tom.
@@ -156,11 +150,7 @@ who, what, which は O としてはたらきます。
 
 ### 4. 平叙文の中で前置詞の O としてはたらいている部分を尋ねる
 
-1. 尋ねたい部分を who, what, which に代える
-2. who, what, which を文頭に出す
-3. be 動詞または助動詞を S の前に出す
-* who ではなく whom を用いることも可能
-* 前置詞 + whom, what, which を文頭に出すこともある。この場合 who は用いない
+<img src="fig/疑問詞疑問文の手順_4.png" width="640"/>
 
 ```
    Tom heard the news from Meg.
@@ -192,11 +182,7 @@ who, what, which は O としてはたらきます。
 
 太字の部分の要素は名詞修飾語です。直後の斜体の語を修飾しています。
 
-1. 尋ねたい部分を whose, what, which に代える
-2. whose, what, which + 名詞を文頭に移動させる
-3. be 動詞または助動詞を S の前に出す
-但し、whose, what, which によって修飾されている名詞が S である場合は 1 のみで終える。
-* whose, what, which によって修飾せれている名詞が前置詞のOである場合は、「前置詞 + whose, what, which + 名詞」を文頭に出すこともある。
+<img src="fig/疑問詞疑問文の手順_5.png" width="640"/>
 
 ```text
    Bob likes this color.
@@ -236,8 +222,7 @@ C, O, 前置詞のO の可能性もあります。
 - _なぜ_ リサは踊ったのか。
 - _どのように_ リサは踊ったのか。
 
-1. 文頭に where, when, why, how を置く
-2. be 動詞または助動詞を S の前に置く
+<img src="fig/疑問詞疑問文の手順_6.png" width="640"/>
 
 文に be 動詞も助動詞も存在しない場合は、助動詞の do, does, did を置きこれを前に出します。
 
@@ -246,7 +231,7 @@ C, O, 前置詞のO の可能性もあります。
    (どこで) 買ったかを尋ねる
 -> Where did Tom buy a sword.
 
-   I can go home. 
+   I can go home.
    (いつ) 家に帰れるかを尋ねる
 -> When can i go home?
 
@@ -263,10 +248,7 @@ C, O, 前置詞のO の可能性もあります。
 
 ### 7. 平叙文の中にある形容詞の程度を尋ねる
 
-1. 形容詞の前に how を置く
-2. 形容詞が C である場合: how + 形容詞を文頭に出す  
-   形容詞が名詞修飾語である場合: how + 形容詞 + 名詞を文頭に出す
-3. be 動詞または助動詞を S の前に出す
+<img src="fig/疑問詞疑問文の手順_7.png" width="640"/>
 
 ```
    Meg is Lazy.
@@ -292,9 +274,7 @@ C, O, 前置詞のO の可能性もあります。
 - The lowyer worked __hard__.
 - The festival will start __soon__.
 
-1. 副詞の前に how を置く
-2. how + 副詞を前に出す
-3. be 動詞または助動詞を S の前に出す
+<img src="fig/疑問詞疑問文の手順_8.png" width="640"/>
 
 ```
    The lowyer worked hard.
@@ -314,4 +294,8 @@ C, O, 前置詞のO の可能性もあります。
 ```
 
 この how は副詞修飾語としてはたらきます。
+
+### まとめ
+
+<img src="fig/疑問詞疑問文の要素一覧.png" width="640"/>
 

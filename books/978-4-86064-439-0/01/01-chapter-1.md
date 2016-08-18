@@ -4,7 +4,7 @@
 - 主語[_名詞_] + 述語[_動詞_]
 - 訳) __S が V。__
 
-<img src="fig/第1文型.png" width="640px"/>
+<img src="fig/第1文型.png" width="640"/>
 
 ```txt
 # 例文
@@ -17,7 +17,7 @@ The dog swam.
 - 主語[_名詞_] + 述語[_動詞_] + 補語[_名詞/形容詞/前置詞句_]
 - 訳) __S は C だ。__
 
-<img src="fig/第2文型.png" width="640px"/>
+<img src="fig/第2文型.png" width="640"/>
 
 ```txt
 # 例文
@@ -31,7 +31,7 @@ You are honest.
 - 主語[_名詞_] + 述語[_動詞_] + 目的語[_名詞_]
 - 訳) __S が V を[に] O。__
 
-<img src="fig/第3文型.png" width="640px"/>
+<img src="fig/第3文型.png" width="640"/>
 
 ```txt
 # 例文
@@ -45,7 +45,7 @@ We climbed the tree.
 - 主語[_名詞_] + 述語[_動詞_] + 目的語[_名詞_] + 目的語[_名詞_]  
 - 訳) __S が O<sub>1</sub> に O<sub>2</sub> を V。__
 
-<img src="fig/第4文型.png" width="640px"/>
+<img src="fig/第4文型.png" width="640"/>
 
 ```txt
 # 例文
@@ -64,11 +64,11 @@ Tom passed me a ball.
 - 訳) __S が O を C と V。__
   - 「__呼称__」に関するもの。call, name, title
 
-<img src="fig/第5文型.png" width="640px"/>
+<img src="fig/第5文型.png" width="640"/>
 
-<img src="fig/第5文型の訳し方.png" width="640px"/>
+<img src="fig/第5文型の訳し方.png" width="640"/>
 
-<img src="fig/第5文型と第2文型.png" width="640px"/>
+<img src="fig/第5文型と第2文型.png" width="640"/>
 
 ```txt
 We thought the men kind.
@@ -90,7 +90,7 @@ We call the singer Julie.
 - 主語[_名詞_] + 述語[_動詞_] + 述語[_動詞_]
 - 訳) S が V される[されている]。
 
-<img src="fig/第3文型の受動態.png" width="640px"/>
+<img src="fig/第3文型の受動態.png" width="640"/>
 
 ```txt
 I was scratched <by the cat>.
@@ -101,7 +101,7 @@ John is trusted <by them>.
 - 主語[_名詞_] + 述語[_動詞_] + 述語[_動詞_] + 目的語[_名詞_]
 - 訳) S が O を V される
 
-<img src="fig/第4文型の受動態.png" width="640px"/>
+<img src="fig/第4文型の受動態.png" width="640"/>
 
 ```txt
 My son was given a pen <by the poet>.
@@ -114,7 +114,7 @@ The boy was told a secret <by Meg>.
 - 訳) S が C に V される
 - 訳) S が C と V される
 
-<img src="fig/第5文型の受動態.png" width="640px"/>
+<img src="fig/第5文型の受動態.png" width="640"/>
 
 ```txt
 Bob was thought to be a genius <by Meg>.
@@ -163,7 +163,7 @@ They left Bob is without money.
 Bob was left without money <by them>.
 ```
 
-<img src="fig/基本8文型の一覧表.png" width="640px"/>
+<img src="fig/基本8文型の一覧表.png" width="640"/>
 
 第2文型には、be動詞が用いられたものと、一般動詞が用いられたものがある。  
 一般動詞の「〜である」は、純粋に「〜である」という意味ではなく、次のような意味です。
@@ -261,7 +261,7 @@ There are three books on the desk.
 
 ## 品詞のまとめ
 
-<img src="fig/品詞のまとめ.png" width="640px"/>
+<img src="fig/品詞のまとめ.png" width="640"/>
 
 __前置詞句のはたらき = 形容詞のはたらき + 副詞のはたらき__
 
@@ -305,7 +305,7 @@ We opened that box this way.
 ```
 1~3は本動詞でもあります。
 
-<img src="fig/動詞の種類.png" width="640px"/>
+<img src="fig/動詞の種類.png" width="640"/>
 
 ##### 助動詞としてのbe動詞
 基本形に助動詞のbe動詞が加わると進行形になります。
@@ -355,10 +355,10 @@ My success was due to your advice.
 ```
 群前置詞の後ろに名詞があり、これが群前置詞の目的語です。
 
-<img src="fig/群前置詞の例.png" width="640px"/>
+<img src="fig/群前置詞の例.png" width="640"/>
 
 助動詞が加わると、直後の動詞が現在系、過去形ではなくなる。
 
 ## ここまでの文の名称とここからの変形
 
-<img src="fig/文の名称.png" width="640px"/>
+<img src="fig/文の名称.png" width="640"/>
