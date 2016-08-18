@@ -87,11 +87,11 @@ if 節は例外的に「Oとしてしかはたらかない名詞節」です。
 ### A-1 who, what, which
 これらは「疑問代名詞」と呼ばれるものでした。
 
-- I know __what this is__.
+- I know __what this is__.  
   <sup>(私にはこれがなんなのかわかる)</sup>
-- __Who painted this picture__ is a mystery.
+- __Who painted this picture__ is a mystery.  
   <sup>(誰がこの絵を書いたのかは謎だ)</sup>
-- I don't know __who Tom heard the news from__.
+- I don't know __who Tom heard the news from__.  
   <sup>(私はトムが誰から報らせを聞いたのかわからない)</sup>
-- Bob doesn't tell me __whom Meg loves__.
+- Bob doesn't tell me __whom Meg loves__.  
   <sup>(ボブは私にメグが誰が好きなのかを教えてくれない)</sup>
