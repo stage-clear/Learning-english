@@ -84,7 +84,7 @@ if 節は例外的に「Oとしてしかはたらかない名詞節」です。
 -> what happened (なにが起こったのかということ)
 ```
 
-## A-1 who, what, which
+### A-1 who, what, which
 これらは「疑問代名詞」と呼ばれるものでした。
 
 - I know __what this is__.
