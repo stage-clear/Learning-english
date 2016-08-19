@@ -476,6 +476,7 @@ the way that they clean the ship
 この場合は that は用いません
 ```
 
+
 例:
 ```
 1. the boy
@@ -489,31 +490,33 @@ the way that they clean the ship
 -> the boy at whom Sue threw a ball
 ```
 
-#### 1~4 まとめ
-この1~4 で用いられた従位接続詞は共通のもので that, who, which でした。
+ここまでに作った形容詞節は次のようにまとめられます
 
 <img src="fig/従位接続詞-B_1.png" width="600"/>
 
-- __前置詞 + 関係代名詞で移動させる場合は、which, whom のみを用いる__
+<img src="fig/従位接続詞-B_1-注意点.png" width="600"/>
 
 ここで文法用語を5つ覚えてください
-- __これらの従位接続詞は「関係代名詞」と呼ばれる__
-- __それ自体が S としてはたらくものは「主格」と呼ばれる__
-- __それ自体が O, 前O としてはたらくものは「目的格」と呼ばれる__
-- __関係代名詞が形成する節は「関係代名詞節」と呼ばれる__
-- __関係代名詞節によって修飾される名詞は「先行詞」と呼ばれる__
+- これらの従位接続詞は「関係代名詞」と呼ばれる
+- それ自体が S としてはたらくものは「主格」と呼ばれる
+- それ自体が O, 前O としてはたらくものは「目的格」と呼ばれる
+- 関係代名詞が形成する節は「関係代名詞節」と呼ばれる
+- 関係代名詞節によって修飾される名詞は「先行詞」と呼ばれる
 
-例: 文中で使われている例
-- _The girl_ __who is dancing there__ is my daughter.
-  <sup>()</sup>
--
-  <sup>()</sup>
--
-  <sup>()</sup>
-
--
-  <sup>()</sup>
-  -
-  <sup>()</sup>
+例: 「名詞（先行詞） + 関係代名詞節」が文中で使われるようす
+- _The girl_ __who is dancing there__ is my daughter.  
+  <sup>(そこで踊っている少女は私の娘だ)</sup>
+- This is _an animal_ __that lives in the water__.  
+  <sup>(これは水の中に住んでいる動物だ)</sup>
+- _The machine_ __which Bob invented__ was very beautiful.  
+  <sup>(ボブが開発した機械はとても美しかった)</sup>
+- Tom read _the letter_ __which I sent Meg__.  
+  <sup>(トムは私がメグに送った手紙を読んだ)</sup>
+- That is _tha man_ __who we call Bab__.  
+  <sup>(あれは私たちがボブと呼んでいる男だ)</sup>
+- _The forest_ __that the bird lives in__ is very dangerous.  
+  <sup>(その鳥が棲んでいる森はとても危険だ)</sup>
+- I know the name of _the boy_ __at whom Sue threw a ball__.  
+  <sup>(私はスーがボールを投げつけた少年の名前を知っている)</sup>
 
 ### 5. <a id="B-ptn-5"></a>
