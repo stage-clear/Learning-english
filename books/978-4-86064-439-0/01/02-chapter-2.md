@@ -519,4 +519,50 @@ the way that they clean the ship
 - I know the name of _the boy_ __at whom Sue threw a ball__.  
   <sup>(私はスーがボールを投げつけた少年の名前を知っている)</sup>
 
-### 5. <a id="B-ptn-5"></a>
+## <a id="B-2"></a>B-2 whose
+### 5. <a id="B-ptn-5"></a>2 の中において、1 の名詞が名詞修飾語である場合
+
+<img src="fig/従位接続詞-B_2-手順.png" width="600"/>
+
+例:
+```
+1. the man
+2. Meg touched the man's shoulder.
+
+1) Meg touched whose shoulder
+2) whose Meg touched shoulder
+
+-> the man whose Meg touched
+```
+
+例: 
+```
+1. the girl
+2. The girl's voice is very beautiful.
+
+1) whose voice is very beautiful.
+
+-> the girl whose voice is very beautiful
+```
+
+例: 「名詞 + whose 節」が文中で用いられるようす
+- _The man_ __whose shoulder Meg touched__ was very tall.
+  <sup>(メグが肩を触った男はとても背が高かった)</sup>
+- I know _a girl_ __whose voice is very beautiful_.
+  <sup>(私は声がとても美しい少女を知っている)</sup>
+- I have _a friend_ __whose father is a famouse singer__.
+  <sup>(僕には、お父さんがとても有名な歌手である友達がいる)</sup>
+- She is _a novelist_ __whose books are widely known__.
+  <sup>(彼女はその本が広く読まれている小説家だ)</sup>
+
+whose に関する用語を3つ知ります
+- この whose は「関係形容詞」と呼ばれる
+- 関係形容詞が形成する節は「関係形容詞節」と呼ばれる
+- 関係形容詞によって修飾される名詞は「先行詞」と呼ばれる
+
+最後に次のことを記憶してください
+__全ての名詞が関係代名詞、関係形容詞によって修飾される__
+
+<img src="fig/従位接続詞-B_2-すべての名詞.png" width="600"/>
+
+### <a id="B-3"></a>B-3 where, when, why
