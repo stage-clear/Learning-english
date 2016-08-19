@@ -9,7 +9,8 @@
 <a href="#A-1">A-1</a>
 <a href="#A-2">A-2</a>
 <a href="#A-3">A-3</a>
-<a href="#A-4">A-4</a>
+<a href="#A-4">A-4</a>  
+<a href="#B-1">B-1</a>
 
 ## 1. 名詞節を形成する従位接続詞
 ### <a id="A-0"></a>A-0 that, whether, if
@@ -367,3 +368,114 @@ the way that they clean the ship
 これらの that は頻繁に省略される
 
 ### B-1 ~ B-2 総説
+次の5つに分けて話を進めます。
+
+1. [2 の中において、1 の名詞が S である場合](#B-ptn-1)
+2. [2 の中において、1 の名詞が C である場合](#B-ptn-2)
+3. [2 の中において、1 の名詞が O である場合](#B-ptn-3)
+4. [2 の中において、1 の名詞が前置詞の O である場合](#B-ptn-4)
+5. [2 の中において、1 の名詞が名詞修飾語である場合](#B-ptn-5)
+
+このうち、1~4が B-1 に関連し、5が B-2 に関連します
+
+### <a id="B-1"></a>B-1 that, who, which
+#### <a id="B-pth-1"></a>1. 2 の中において、1 の名詞が S である場合
+
+<img src="fig/従位接続詞-B_1-手順-1.png" width="600"/>
+
+例:1
+```
+1. the animal
+2. The animal lives in the water.
+       S      V     動詞修飾語
+
+1) that[which] lives in the water
+
+これを1の後ろに置けば、求められる表現となります
+-> the animal that lives in the water
+              ^^^^^^^^^^^^^^^^^^^^^^^
+              名詞修飾語
+```
+
+例:2
+```
+1. the girl
+2. The girl is dancing there.
+       S    v  V       動詞修飾語
+
+1) who is dancing there.
+
+-> the girl who is dancing there.
+            ^^^^^^^^^^^^^^^^^^^^
+            名詞修飾語
+```
+
+### 2. <a id="B-ptn-2"></a>2 の中において、1 の名詞が C である場合
+このケースは稀なので、ここでは扱わず次へ進みます。
+
+### 3. <a id="B-ptn-3"></a>2 の中において、1 の名詞が O である場合
+
+<img src="fig/従位接続詞-B_1-手順3.png" width="600"/>
+
+例:
+```
+1. the machine
+2. Bob invented the machine.
+   S   V        O
+
+1) Bob invented that[which]
+2) that[which] Bob invented
+
+-> the machine that[which] Bob invented
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+               名詞修飾語
+```
+
+例: 第4文型の場合
+```
+1. the letter
+2. I sent Meg the letter
+   S  V   O    O
+
+1) I sent Meg that[which]
+2) that[which] I sent Meg
+
+-> the letter that[which] I sent Meg
+```
+
+例: 第5文型の場合
+```
+1. the man
+2. We call the man Bob.
+   S  V    O       C
+
+1) We call who[whom] Bob
+2) who[whom] we call Bob
+
+-> the man who[whom] we call Bob
+```
+
+### 4. <a id="B-ptn-4"></a> 2 の中において、1 の名詞が前置詞の O である場合
+
+<img src="fig/従位接続詞-B_1-手順4.png">
+
+例:
+```
+1. the forest
+2. The bird lives in the forest
+   S        V     動詞修飾語
+
+1) The bird lives that[which]
+2) that[which] the bird lives in
+
+-> the forest that[which] the bird lives in
+              名詞修飾語
+
+前置詞ごと移動する場合
+-> the forest in which the bird lives
+この場合は that は用いません
+```
+
+
+
+### 5. <a id="B-ptn-5"></a>
