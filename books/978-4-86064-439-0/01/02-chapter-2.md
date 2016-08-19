@@ -5,11 +5,11 @@
 
 <img src="fig/従位接続詞の一覧表.png" width="600"_>
 
-<a href="A-0">A-0</a>
-<a href="A-1">A-1</a>
-<a href="A-2">A-2</a>
-<a href="A-3">A-3</a>
-<a href="A-4">A-4</a>
+<a href="#A-0">A-0</a>
+<a href="#A-1">A-1</a>
+<a href="#A-2">A-2</a>
+<a href="#A-3">A-3</a>
+<a href="#A-4">A-4</a>
 
 ## 1. 名詞節を形成する従位接続詞
 ### <a id="A-0">$</a> that, whether, if
