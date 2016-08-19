@@ -17,7 +17,7 @@
 that 節はは、S, C, O, 前O のいずれかとしてはたらきます。  
 that は「こと」「の」と訳します。
 
-<img src="fig/従位接続詞-A_1-that.png" width="600"/>
+<img src="fig/従位接続詞-A_0-that.png" width="600"/>
 
 - __That Bob is a doctor__ is widely known.  
   <sup>(ボブが医者だということは広く知られている)</sup>
