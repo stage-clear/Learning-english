@@ -381,7 +381,7 @@ the way that they clean the ship
 ### <a id="B-1"></a>B-1 that, who, which
 #### <a id="B-pth-1"></a>1. 2 の中において、1 の名詞が S である場合
 
-<img src="fig/従位接続詞-B_1-手順-1.png" width="600"/>
+<img src="fig/従位接続詞-B_1-手順1.png" width="600"/>
 
 例:1
 ```
@@ -457,7 +457,7 @@ the way that they clean the ship
 
 ### 4. <a id="B-ptn-4"></a> 2 の中において、1 の名詞が前置詞の O である場合
 
-<img src="fig/従位接続詞-B_1-手順4.png">
+<img src="fig/従位接続詞-B_1-手順4.png" width="600"/>
 
 例:
 ```
