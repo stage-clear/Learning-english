@@ -286,11 +286,84 @@ news は「何がどうする？」という疑問が生じる名詞です
   <sup>(その医者が作家であるという事実は広く知られている)</sup>
 - There is _a possibility_ __that Tom came here last night__.  
   <sup>(トムが昨晩ここに来た可能性がある)</sup>
-- His facial expression gave me _the impression_ __that he was speaking the trueth__.
+- His facial expression gave me _the impression_ __that he was speaking the trueth__.  
   <sup>(彼の表情が私に彼は真実を語っているという印象を与えた)</sup>
-- We reached _the conclusion_ __that we can't support you__.
+- We reached _the conclusion_ __that we can't support you__.  
   <sup>(我々は、あなとの援助はできないという結論に達した)</sup>
 
 <img src="fig/従位接続詞-B_0-すべての名詞-1.png" width="600"/>
 
 <img src="fig/従位接続詞-B_0-すべての名詞-2.png" width="600"/>
+
+#### グループ2: place, are
+place, area は「何がどうする？」という疑問が生じる名詞です。
+
+例: place
+```
+1. the place
+2. My dog died.
+-> tha place that My dog died.
+   (僕の犬が死んだ場所)
+```
+2は1の内容だと言えません。  
+よってこの that 節は、同格の that 節とは異質なもので、この that を「__関係副詞の that__」と呼びます。
+
+グループ2: 時間に関する名詞 <sup>(具体的な時間、年月日以外)</sup>
+time は、「何がどうする？」という疑問が生じる名詞です。
+
+例: time
+```
+1. the time
+2. Bicycles were rare.
+-> the time that bicycles were rare.
+   (自転車が珍しかった時)
+```
+2は1の内容とは言えません。  
+この that 節も、同格の that 節とは異質なものなので、この that も関係副詞と呼ばれます。
+
+具体的な時間や年月日以外のものなら、that 節に修飾されます。
+
+例:
+```
+the day that we can meet Meg.
+the night that I became a hero.
+the year that Meg lived in Berlin.
+```
+
+#### グループ2: reason, way
+reason, way も「何がどうする？」という疑問が生じる名詞です。
+
+例: reason, way
+```
+the reason that Lisa never speaks
+the way that my son caught a rat
+```
+
+類例: グループ2の名詞を修飾する that 節
+```
+the area that the deer lives
+the moment that I found the treasure
+the evening that Meg came here
+the reason that I love you
+the way that they clean the ship
+```
+
+例: 「名詞 + 関係副詞」が文中で使われている例
+- Lisa told me _tha place_ __that my dog died.__  
+  <sup>(リサは僕に、僕の犬が死んだ場所を教えてくれた)</sup>
+- I will talk about _the time_ __that bicycles were here__.  
+  <sup>(自転車が珍しかった時についてお話しします)</sup>
+- Can you imagine the surprice of _the moment_ __that I found the tresure__?  
+  <sup>(私がその宝を見つけた瞬間の驚きを想像できるか)</sup>
+- I know _the reason_ __that Lisa never speaks__.  
+  <sup>(私はリサが決してしゃべらない理由を知っている)</sup>
+- This is _the reason_ __that I love you__.  
+  <sup>(これが僕が君を好きな理由だ)</sup>
+- _The way_ __that my son caught a rat__ was very creative.  
+  <sup>(息子がネズミを捕まえた方法はとても独創的だった)</sup>
+- Watch carefully _the way_ __that they clean the ship__.  
+  <sup>(彼らがその船を洗う方法を注意深く見なさい)</sup>
+
+これらの that は頻繁に省略される
+
+### B-1 ~ B-2 総説
