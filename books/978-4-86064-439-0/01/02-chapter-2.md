@@ -5,8 +5,14 @@
 
 <img src="fig/従位接続詞の一覧表.png" width="600"_>
 
+<a href="A-0">A-0</a>
+<a href="A-1">A-1</a>
+<a href="A-2">A-2</a>
+<a href="A-3">A-3</a>
+<a href="A-4">A-4</a>
+
 ## 1. 名詞節を形成する従位接続詞
-### A-0 that, whether, if
+### <a id="A-0">$</a> that, whether, if
 #### that 節
 that 節はは、S, C, O, 前O のいずれかとしてはたらきます。  
 that は「こと」「の」と訳します。
@@ -84,8 +90,8 @@ if 節は例外的に「Oとしてしかはたらかない名詞節」です。
 -> what happened (なにが起こったのかということ)
 ```
 
-### A-1 who, what, which
-これらは「疑問代名詞」と呼ばれるものでした。
+### <a id="A-1">$</a> A-1 who, what, which
+これらは「疑問代名詞」でした。
 
 - I know __what this is__.  
   <sup>(私にはこれがなんなのかわかる)</sup>
@@ -95,3 +101,6 @@ if 節は例外的に「Oとしてしかはたらかない名詞節」です。
   <sup>(私はトムが誰から報らせを聞いたのかわからない)</sup>
 - Bob doesn't tell me __whom Meg loves__.  
   <sup>(ボブは私にメグが誰が好きなのかを教えてくれない)</sup>
+
+### <a id="A-2">$</a> A-2 whose, what, which
+これらは「疑問形容詞」でした。
