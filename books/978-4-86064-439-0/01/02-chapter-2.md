@@ -24,7 +24,7 @@ that は「こと」「の」と訳します。
 - My idea is __that we should leave here__.  
   <sup>(私の案は、我々はここをさるべきだということだ)</sup>
 - My husband does't know __that I am an actress__.  
-  <sup>(夫は私がじゅゆうだということを知らない)</sup>
+  <sup>(夫は私が女優だということを知らない)</sup>
 - Bob told Lisa __that he was sick__.  
   <sup>(ボブはリサに、自分が病気だということを告げた)</sup>
 - I like this theory in __that it is beautiful__.  
@@ -206,3 +206,91 @@ A-3: where節 (...場所)、when節 (...時)、why節 (...理由)、
 
 > __①が「何がどうする？」という疑問が生じる名詞である。__
 
+例: タイプXの形容詞節
+```
+1. 可能性
+2. 四国でカワウソが発見される
+-> 四国でカワウソが発見される可能性
+   ^^^^^^^^^^^^^^^^^^^^^^^^^^ 
+   名詞修飾語
+
+1. 通報
+2. 札幌駅の前でヒグマが暴れている
+-> 札幌駅の前でヒグマが暴れているとの通報
+   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   名詞修飾語
+
+- この道路が陥没する可能性
+- タマが僕のピザを食べてしまった証拠
+- 上司が頼りにならないという現実
+- 息子が将来プロの棋士になるのではないかという予感
+- 「本能寺の変」を計画したのは豊富秀吉だという仮説
+```
+
+例: タイプYの形容詞
+```
+1. ハンカチ
+2. 彼が私にハンカチをくれた
+   > 「ハンカチを」 を消し、1の前に置く
+-> 彼が私にくれたハンカチ
+   ^^^^^^^^^^^^^^
+   名詞修飾語
+
+1. 列車
+2. 列車が東へと向かう
+   > 「列車が」を消し、1の前に置く
+-> 東へと向かう列車
+   ^^^^^^^^^^^^
+
+1. ツチノコ
+2. 妻が大阪でツチノコを捕まえた
+   > 「ツチノコを」を消し、1の前に置く
+   妻が大阪で捕まえたツチノコ
+   ^^^^^^^^^^^^^^^^^^
+
+1. 藤原道長
+2. 藤原道長の日記が国宝に指定されている
+   > 「藤原道長の」を消し、1の前に置く
+   日記が国宝に指定されている藤原道長
+   ^^^^^^^^^^^^^^^^^^^^^^^^^^
+```
+<img src="fig/従位接続詞-B-名詞.png" width="600"/>
+
+### <a id="B-0"></a>B-0 that
+
+```
+1. the news
+2. Meg was arrested.
+-> the news that Meg was arrested.
+```
+news は「何がどうする？」という疑問が生じる名詞です
+
+<img src="fig/従位接続詞-B_1.png" width="600"/>
+
+この that はどの要素にもなりません。  
+この B-0 の that は「同格の that」と呼ばれます。
+
+類例
+```
+1. the rumor
+2. John in a gangster.
+-> the rumor that John in a gangster.
+```
+
+実例: 「名詞 + 同格の that」
+- _The news_ __that Meg was arrested__ is shocking to me.  
+  <sup>(メグが逮捕されたというニュースは、私には衝撃的だった)</sup>
+- Did you hear _the rumor_ __that John is a gangster__?  
+  <sup>(ジョンがギャングだという噂を聞いたか)</sup>
+- _The fact_ __that the doctor is a writer__ is widely known.  
+  <sup>(その医者が作家であるという事実は広く知られている)</sup>
+- There is _a possibility_ __that Tom came here last night__.  
+  <sup>(トムが昨晩ここに来た可能性がある)</sup>
+- His facial expression gave me _the impression_ __that he was speaking the trueth__.
+  <sup>(彼の表情が私に彼は真実を語っているという印象を与えた)</sup>
+- We reached _the conclusion_ __that we can't support you__.
+  <sup>(我々は、あなとの援助はできないという結論に達した)</sup>
+
+<img src="fig/従位接続詞-B_0-すべての名詞-1.png" width="600"/>
+
+<img src="fig/従位接続詞-B_0-すべての名詞-2.png" width="600"/>
