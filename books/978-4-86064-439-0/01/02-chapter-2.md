@@ -476,6 +476,44 @@ the way that they clean the ship
 この場合は that は用いません
 ```
 
+例:
+```
+1. the boy
+2. Sue threw a ball at the boy
+   S   V     O         前O
 
+1) Sue threw a ball at who[whom]
+2) who[whom] Sue threw a ball at
+
+-> the boy who[whom] Sue threw a ball at
+-> the boy at whom Sue threw a ball
+```
+
+#### 1~4 まとめ
+この1~4 で用いられた従位接続詞は共通のもので that, who, which でした。
+
+<img src="fig/従位接続詞-B_1.png" width="600"/>
+
+- __前置詞 + 関係代名詞で移動させる場合は、which, whom のみを用いる__
+
+ここで文法用語を5つ覚えてください
+- __これらの従位接続詞は「関係代名詞」と呼ばれる__
+- __それ自体が S としてはたらくものは「主格」と呼ばれる__
+- __それ自体が O, 前O としてはたらくものは「目的格」と呼ばれる__
+- __関係代名詞が形成する節は「関係代名詞節」と呼ばれる__
+- __関係代名詞節によって修飾される名詞は「先行詞」と呼ばれる__
+
+例: 文中で使われている例
+- _The girl_ __who is dancing there__ is my daughter.
+  <sup>()</sup>
+-
+  <sup>()</sup>
+-
+  <sup>()</sup>
+
+-
+  <sup>()</sup>
+  -
+  <sup>()</sup>
 
 ### 5. <a id="B-ptn-5"></a>
