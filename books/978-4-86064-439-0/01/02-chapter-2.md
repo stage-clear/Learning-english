@@ -52,12 +52,12 @@ if 節は例外的に「Oとしてしかはたらかない名詞節」です。
 - __疑問詞疑問文において、S の前にある be 動詞/助動詞が、この位置に移動する前の状態に戻せば、疑問詞疑問文は名詞になる__
 - __この名詞節では、疑問詞が従位接続詞の役割を果たす__
 
-1. Who is that lady? (疑問詞疑問文)  
-   -> That lady is X. (元の平叙文)  
-   -> who that lady is (従位接続詞と名詞節)
-2. Where did Lisa meet Bob? (疑問詞疑問文)  
-   -> Lisa met Bob. (平叙文)  
-   -> where Lisa met Bob. (従位接続詞と名詞節)
+1. Who is that lady? <sup>(疑問詞疑問文)</sup>  
+   -> That lady is X. <sup>(元の平叙文)</sup>  
+   -> who that lady is <sup>(従位接続詞と名詞節)</sup>
+2. Where did Lisa meet Bob? <sup>(疑問詞疑問文)</sup>  
+   -> Lisa met Bob. <sup>(平叙文)</sup>  
+   -> where Lisa met Bob. <sup>(従位接続詞と名詞節)</sup>
 
 名詞節は、S, C, O, 前Oとしてはたらきます
 
