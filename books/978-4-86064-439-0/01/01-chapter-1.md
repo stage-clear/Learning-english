@@ -332,11 +332,11 @@ The rabbit did fly!
 ```
 
 ##### 法助動詞
-- will, would (〜つもりだ、〜だろう、〜する予定だ)
-- can, could (〜できる、〜であり得る)
-- may, might (〜かもしれない、〜してもよい)
-- should （〜べきだ、〜はずだ）
-- must (〜しなくてはならない)
+- will, would <sup>(〜つもりだ、〜だろう、〜する予定だ)</sup>
+- can, could <sup>(〜できる、〜であり得る)</sup>
+- may, might <sup>(〜かもしれない、〜してもよい)</sup>
+- should <sup>（〜べきだ、〜はずだ）</sup>
+- must <sup>(〜しなくてはならない)</sup>
 
 法助動詞が加わると直後の動詞は原形になります。
 ```
