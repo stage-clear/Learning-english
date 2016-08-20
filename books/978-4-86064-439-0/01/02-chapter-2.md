@@ -42,5 +42,11 @@ D-5
 <img src="fig/従位接続詞の一覧-後半.png" width="600"/>
 
 :arrow_forward: <a href="02-chapter-2-2.md#A-1+">A-1'</a>
+<a href="02-chapter-2-2.md#A-2+">A-2'</a>  
+:arrow_forward: <a href="02-chapter-2-2.md#C-1+">C-1'</a>
+<a href="02-chapter-2-2.md#C-2+">C-2'</a>
+<a href="02-chapter-2-2.md#C-3+">C-3'</a>
+<a href="02-chapter-2-2.md#C-4+">C-4'</a>
 
+## 6. [as](02-chapter-2-as.md)
 
