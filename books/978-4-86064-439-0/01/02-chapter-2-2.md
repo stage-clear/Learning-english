@@ -70,7 +70,7 @@ S V  C         前   O        S v    V        ((前  O) = 動詞修飾語)
 - I am satisfied with __whatever I have archived until now__.  
   <sup>(私は自分が今までに達成してきたことの全てに満足している)</sup>
 
-### <a id="C-1+">C-1'</a> whoever, whatever, whiciever
+## <a id="C-1+">C-1'</a> whoever, whatever, whiciever
 whoever 節、whatever 節、whichever 節は、動詞修飾語としてもはたらきます。
 
 <img src="fig/従位接続詞後半-C_1-イメージ図.png" width="600"/>
