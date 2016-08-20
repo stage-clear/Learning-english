@@ -214,3 +214,58 @@ The noise would annoy you, whichever room you work in.
 - The noise would annoy you, __whichever room you work in__.  
   <sup>(君がどちらの部屋で働こうとも、その騒音が君を悩ませるだろう)</sup>
 
+## <a id="C-3+">C-3'</a> wherever, whenever, however
+
+<img src="fig/従位接続詞後半-C_3-イメージ図.png" width="600"/>
+
+<img src="fig/従位接続詞後半-C_3-接続詞の訳.png" width="600"/>
+
+例:
+- __Wherever he sleeps__, he _snores_.
+  <sup>(どこで寝ようとも、彼はいべきをかく)</sup>
+- You can _go_ __wherever you like_.
+  <sup>(君はどこでも好きな場所にいける)</sup>
+- __Whenever you may come__, you'll _be_ welcome.
+  <sup>(君はいつ来ても歓迎されるよ)</sup>
+- __Whenever I'm in trouble__, I _consult_ my mother.
+  <sup>(困った時はいつでも、私は母に相談する)</sup>
+- __However we may do it__, the result will _be_ the same.
+  <sup>(我々がどのようにそれをしても、結果は同じだろう)</sup>
+- _Play_ this music __however you like__.
+  <sup>(この曲を、何でも好きな方法で弾きなさい)</sup>
+
+## <a id="C-4+">C-4'</a> however
+
+<img src="fig/従位接続詞後半-C_4-イメージ図.png" width="600"/>
+
+<img src="fig/従位接続詞後半-C_4-接続詞の訳.png" width="600"/>
+
+例: 1
+```
+However talented you are, you will not succeed without me.
+形修    C        S   V    S   v        V      ((前     前O) = 動修)
+^^^^^^^^^^^^^^^^^^^^^^^^^
+動詞修飾語
+
+1) 君がどんなに才能があっても、僕がいなければ成功しないだろう
+```
+
+例: 2
+```
+However carefully I write, I sometimes make mistakes.
+副修    動修      S V      S 動修      V    O
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+動詞修飾語
+
+1) どんなに注意深く書いても、私はときどきミスをする
+```
+
+例: まとめとその他の例
+- __However talented you are__, you will not _succeed_ without me.
+  <sup>(君がどんなに才能があっても、僕がいなければ君は成功しない)</sup>
+- __However carefully I write__, I sometimes _make_ mistakes.
+  <sup>(どんなに注意深く書いても、私はときどきミスをする)</sup>
+- __However difficult the works is__, you must _finish_ it by tommorow.
+  <sup>(その仕事がどんなに困難でも、君はそれを明日までに終えねばならない)</sup>
+- __However loudly I cried__, Tom didn't _stop_.
+  <sup>(僕がどんなに大声で叫んでも、トムは立ち止まらなかった)</sup>
