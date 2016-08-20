@@ -121,11 +121,11 @@ Whoever you borrow money from, you must pay it back.
 例: まとめ
 - __Whoever you are__, I'll _hire_ you.  
   <sup>(君が誰であろうと、私は君を雇う)</sup>
-- __Whichever wins__, the players would _cry_.
+- __Whichever wins__, the players would _cry_.  
   <sup>(どちらが勝っても、選手たちは泣くだろう)</sup>
-- __Whatever you may do__, you will _succeed_.
+- __Whatever you may do__, you will _succeed_.  
   <sup>(何をしようとも、君は成功するだろう)</sup>
-- __Whoever you borrow money from__, you must _pay_ it back.
+- __Whoever you borrow money from__, you must _pay_ it back.  
   <sup>(君は誰からお金を借りようとも、それを返さなくてはならない)</sup>
 
 ## <a id="A-2+">A-2'</a> whatever, whichever
@@ -165,9 +165,9 @@ S           V         名修     O2   S V    O1
 ```
 
 例: まとめ
-- You can join __whichever tema you like__.
+- You can join __whichever tema you like__.  
   <sup>(どちらでも好きなほうのチームに参加できる)</sup>
-- My dougter treasured __whatever I gave her__.
+- My dougter treasured __whatever I gave her__.  
   <sup>(娘は、私が彼女にあげたどんな人形も大事にした)</sup>
 
 ## <a id="C-2+">C-2'</a> whatever, whichever
@@ -207,10 +207,10 @@ The noise would annoy you, whichever room you work in.
 ```
 
 例: まとめ
-- __Whichever song he may choose__, he will _sing_ it well.
+- __Whichever song he may choose__, he will _sing_ it well.  
   <sup>(彼はどちらの歌を選ぼうとも、それを上手に歌うだろう)</sup>
-- __Whatever accident may happen__, I'll _support_ you.
+- __Whatever accident may happen__, I'll _support_ you.  
   <sup>(どんな事件が起ころうとも、私はあなたを支えるつもりだ)</sup>
-- The noise would annoy you, __whichever room you work in__.
+- The noise would annoy you, __whichever room you work in__.  
   <sup>(君がどちらの部屋で働こうとも、その騒音が君を悩ませるだろう)</sup>
 
