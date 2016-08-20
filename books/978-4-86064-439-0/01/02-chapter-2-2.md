@@ -1,4 +1,4 @@
-# 獣医接続詞の一覧の後半
+# 従位接続詞の一覧の後半
 ## <a id="A-1+">A-1'</a> whoever, whatever, whichever
 
 <img src="fig/従位接続詞後半-A_1-イメージ図.png" width="600"/>
