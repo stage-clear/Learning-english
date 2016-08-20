@@ -4,16 +4,16 @@
 英語の形容詞節は、日本語の形容詞節と多くの共通点を持ちます。
 よって日本語の形容詞節の知識を出発点にすれば、英語の形容詞節は非常に理解しやすくなります。
 
-以下のような「名詞と分のペア」を用意して、②の文を①の名詞に対する修飾語にする
+以下のような「名詞と分のペア」を用意して、(2)の文を(1)の名詞に対する修飾語にする
 
 1. 名詞
 2. 文
 
-上のペアにおいては、次の条件を満たした場合に、②の文を①の名詞に対する修飾語にすることができます。
+上のペアにおいては、次の条件を満たした場合に、(2)の文を(1)の名詞に対する修飾語にすることができます。
 
-> __①が「何がどうする？」という疑問が生じる名詞である。__
+> __(1)が「何がどうする？」という疑問が生じる名詞である。__
 
-例: タイプXの形容詞節
+例: <sup>タイプXの形容詞節</sup>
 ```
 1. 可能性
 2. 四国でカワウソが発見される
@@ -34,7 +34,7 @@
 - 「本能寺の変」を計画したのは豊富秀吉だという仮説
 ```
 
-例: タイプYの形容詞
+例: <sup>タイプYの形容詞</sup>
 ```
 1. ハンカチ
 2. 彼が私にハンカチをくれた
@@ -63,7 +63,7 @@
 ```
 <img src="fig/従位接続詞-B-名詞.png" width="600"/>
 
-### <a id="B-0"></a>B-0 that
+## <a id="B-0">B-0</a> that
 
 ```
 1. the news
@@ -77,14 +77,14 @@ news は「何がどうする？」という疑問が生じる名詞です
 この that はどの要素にもなりません。  
 この B-0 の that は「同格の that」と呼ばれます。
 
-類例
+例: <sup>類例</sup>
 ```
 1. the rumor
 2. John in a gangster.
 -> the rumor that John in a gangster.
 ```
 
-実例: 「名詞 + 同格の that」
+例: <sup>「名詞 + 同格の that」</sup>
 - _The news_ __that Meg was arrested__ is shocking to me.  
   <sup>(メグが逮捕されたというニュースは、私には衝撃的だった)</sup>
 - Did you hear _the rumor_ __that John is a gangster__?  
@@ -102,30 +102,30 @@ news は「何がどうする？」という疑問が生じる名詞です
 
 <img src="fig/従位接続詞-B_0-すべての名詞-2.png" width="600"/>
 
-#### グループ2: place, are
+### グループ2: place, are
 place, area は「何がどうする？」という疑問が生じる名詞です。
 
-例: place
+例: <sup>place</sup>
 ```
 1. the place
 2. My dog died.
 -> tha place that My dog died.
    (僕の犬が死んだ場所)
 ```
-2は1の内容だと言えません。  
+2 は 1 の内容だと言えません。  
 よってこの that 節は、同格の that 節とは異質なもので、この that を「__関係副詞の that__」と呼びます。
 
 グループ2: 時間に関する名詞 <sup>(具体的な時間、年月日以外)</sup>
 time は、「何がどうする？」という疑問が生じる名詞です。
 
-例: time
+例: <sup>time</sup>
 ```
 1. the time
 2. Bicycles were rare.
 -> the time that bicycles were rare.
    (自転車が珍しかった時)
 ```
-2は1の内容とは言えません。  
+2 は 1の内容とは言えません。  
 この that 節も、同格の that 節とは異質なものなので、この that も関係副詞と呼ばれます。
 
 具体的な時間や年月日以外のものなら、that 節に修飾されます。
@@ -137,16 +137,16 @@ the night that I became a hero.
 the year that Meg lived in Berlin.
 ```
 
-#### グループ2: reason, way
+### グループ2: reason, way
 reason, way も「何がどうする？」という疑問が生じる名詞です。
 
-例: reason, way
+例: <sup>reason, way</sup>
 ```
 the reason that Lisa never speaks
 the way that my son caught a rat
 ```
 
-類例: グループ2の名詞を修飾する that 節
+例: <sup>グループ2の名詞を修飾する that 節</sup>
 ```
 the area that the deer lives
 the moment that I found the treasure
@@ -155,7 +155,7 @@ the reason that I love you
 the way that they clean the ship
 ```
 
-例: 「名詞 + 関係副詞」が文中で使われている例
+例: <sup>「名詞 + 関係副詞」が文中で使われている例</sup>
 - Lisa told me _tha place_ __that my dog died.__  
   <sup>(リサは僕に、僕の犬が死んだ場所を教えてくれた)</sup>
 - I will talk about _the time_ __that bicycles were here__.  
@@ -173,7 +173,7 @@ the way that they clean the ship
 
 これらの that は頻繁に省略される
 
-### B-1 ~ B-2 総説
+## B-1 ~ B-2 総説
 次の5つに分けて話を進めます。
 
 1. [2 の中において、1 の名詞が S である場合](#B-ptn-1)
@@ -184,12 +184,12 @@ the way that they clean the ship
 
 このうち、1~4が B-1 に関連し、5が B-2 に関連します
 
-### <a id="B-1"></a>B-1 that, who, which
-#### <a id="B-pth-1"></a>1. 2 の中において、1 の名詞が S である場合
+## <a id="B-1">B-1</a> that, who, which
+### <a id="B-ptn-1"></a>1. 2 の中において、1 の名詞が S である場合
 
 <img src="fig/従位接続詞-B_1-手順1.png" width="600"/>
 
-例:1
+例:<sup>1</sup>
 ```
 1. the animal
 2. The animal lives in the water.
@@ -203,7 +203,7 @@ the way that they clean the ship
               名詞修飾語
 ```
 
-例:2
+例:<sup>2</sup>
 ```
 1. the girl
 2. The girl is dancing there.
@@ -237,7 +237,7 @@ the way that they clean the ship
                名詞修飾語
 ```
 
-例: 第4文型の場合
+例: <sup>第4文型の場合</sup>
 ```
 1. the letter
 2. I sent Meg the letter
@@ -249,7 +249,7 @@ the way that they clean the ship
 -> the letter that[which] I sent Meg
 ```
 
-例: 第5文型の場合
+例: <sup>第5文型の場合</sup>
 ```
 1. the man
 2. We call the man Bob.
@@ -309,7 +309,7 @@ the way that they clean the ship
 - __関係代名詞が形成する節は「関係代名詞節」と呼ばれる__
 - __関係代名詞節によって修飾される名詞は「先行詞」と呼ばれる__
 
-例: 「名詞（先行詞） + 関係代名詞節」が文中で使われるようす
+例: <sup>「名詞（先行詞） + 関係代名詞節」が文中で使われるようす</sup>
 - _The girl_ __who is dancing there__ is my daughter.  
   <sup>(そこで踊っている少女は私の娘だ)</sup>
 - This is _an animal_ __that lives in the water__.  
@@ -325,7 +325,7 @@ the way that they clean the ship
 - I know the name of _the boy_ __at whom Sue threw a ball__.  
   <sup>(私はスーがボールを投げつけた少年の名前を知っている)</sup>
 
-## <a id="B-2"></a>B-2 whose
+## <a id="B-2">B-2</a> whose
 ### 5. <a id="B-ptn-5"></a>2 の中において、1 の名詞が名詞修飾語である場合
 
 <img src="fig/従位接続詞-B_2-手順.png" width="600"/>
@@ -351,7 +351,7 @@ the way that they clean the ship
 -> the girl whose voice is very beautiful
 ```
 
-例: 「名詞 + whose 節」が文中で用いられるようす
+例: <sup>「名詞 + whose 節」が文中で用いられるようす</sup>
 - _The man_ __whose shoulder Meg touched__ was very tall.
   <sup>(メグが肩を触った男はとても背が高かった)</sup>
 - I know _a girl_ __whose voice is very beautiful_.
@@ -362,21 +362,21 @@ the way that they clean the ship
   <sup>(彼女はその本が広く読まれている小説家だ)</sup>
 
 whose に関する用語を3つ知ります
-- この whose は「関係形容詞」と呼ばれる
-- 関係形容詞が形成する節は「関係形容詞節」と呼ばれる
-- 関係形容詞によって修飾される名詞は「先行詞」と呼ばれる
+- __この whose は「関係形容詞」と呼ばれる__
+- __関係形容詞が形成する節は「関係形容詞節」と呼ばれる__
+- __関係形容詞によって修飾される名詞は「先行詞」と呼ばれる__
 
 最後に次のことを記憶してください
 __全ての名詞が関係代名詞、関係形容詞によって修飾される__
 
 <img src="fig/従位接続詞-B_2-すべての名詞.png" width="600"/>
 
-### <a id="B-3"></a>B-3 where, when, why
-#### where
+## <a id="B-3">B-3</a> where, when, why
+### where
 場所に関する名詞の全てが、where 節によって修飾されます。
 (ということは、place と area は、that 節にも where 節にも修飾されることになります)
 
-例: where
+例: <sup>where</sup>
 - I took a picture of _the house_ __where Tom lives__.  
   <sup>(私はトムが住んでいる家の写真を撮った)</sup>
 - This is _a park_ __where we often play tennis__.  
@@ -386,11 +386,11 @@ __全ての名詞が関係代名詞、関係形容詞によって修飾される
 - Take me to _the place_ __where you caught this bird__.  
   <sup>(君がこの鳥を捕まえた場所に私を連れて行ってくれ)</sup>
 
-#### when
+### when
 時間に関する名詞の全てが、 when 節によって修飾されます。
 (ということは、具体的な時間、年月日以外のものは、that 節と when 節の両方に修飾されることになります)
 
-例: when
+例: <sup>when</sup>
 - I lived in Osaka in _1970_ __when the expo was held__.  
   <sup>(その博覧会が開かれた1970年に、私は大阪に住んでいた)</sup>
 - That was _an evening_ __when everthyng was shining__.  
@@ -400,10 +400,10 @@ __全ての名詞が関係代名詞、関係形容詞によって修飾される
 - _The time_ __when we were happy__ was very long.  
   <sup>(私たちが幸せだった日々はとても長かった)</sup>
 
-#### why
+### why
 reason は、関係副詞の that 節によって修飾されるのですが、that ではなく why を用いることもできます。
 
-例: reason が why 節に修飾されている例
+例: <sup>reason が why 節に修飾されている例</sup>
 - _The reason_ __why my daugther bacame a nun__ is not clear.  
   <sup>(娘が尼さんになった理由は明らかではない)</sup>
 - Tell me _the reason_ __why you are so beautiful__.  

@@ -1,6 +1,6 @@
 # 名詞節を形成する従位接続詞
-### <a id="A-0"></a>A-0 that, whether, if
-#### that 節
+## <a id="A-0">A-0</a> that, whether, if
+### that 節
 that 節はは、S, C, O, 前O のいずれかとしてはたらきます。  
 that は「こと」「の」と訳します。
 
@@ -17,7 +17,7 @@ that は「こと」「の」と訳します。
 - I like this theory in __that it is beautiful__.  
   <sup>(美しいという点で、私はこの理論が好きだ)</sup>
 
-#### wheter, if
+### wheter, if
 if 節は例外的に「Oとしてしかはたらかない名詞節」です。
 
 <img src="fig/従位接続詞-A_0-whether_if.png" width="600"/>
@@ -48,7 +48,7 @@ if 節は例外的に「Oとしてしかはたらかない名詞節」です。
 
 名詞節は、S, C, O, 前Oとしてはたらきます
 
-他の例も見てみましょう
+例:
 ```
    Why can you sing so well? (なぜ君はそんなにうまく歌えるのか)
 -> why you can sing so well (なぜ君はそんなにうまく歌えるのかということ)
@@ -66,8 +66,9 @@ if 節は例外的に「Oとしてしかはたらかない名詞節」です。
 -> which school Meg chose (メグがどっちの学校を選んだのかということ)
 ```
 
-- __疑問詞疑問文を作る段階で、S の前に be 動詞/助動詞を出していない場合は、疑問詞疑問文がそのままで名詞節になる__
-- 「S の前に be 動詞/助動詞を出していない場合」は2つあり、「S を尋ねる場合」と「Sの修飾語を尋ねる場合」です
+>  __疑問詞疑問文を作る段階で、S の前に be 動詞/助動詞を出していない場合は、疑問詞疑問文がそのままで名詞節になる__
+
+> 「S の前に be 動詞/助動詞を出していない場合」は2つあり、「S を尋ねる場合」と「Sの修飾語を尋ねる場合」です
 
 ```
    Who wrote the novel? (誰がその小説を書いたのか)
@@ -77,7 +78,7 @@ if 節は例外的に「Oとしてしかはたらかない名詞節」です。
 -> what happened (なにが起こったのかということ)
 ```
 
-### <a id="A-1"></a>A-1 who, what, which
+## <a id="A-1">A-1</a> who, what, which
 これらは「疑問代名詞」でした。
 
 <img src="fig/従位接続詞-A_1.png" width="600"/>
@@ -87,7 +88,7 @@ if 節は例外的に「Oとしてしかはたらかない名詞節」です。
 - 名詞節になる前の疑問文はどのような形か
 - 接続詞(疑問詞)自体の要素は S, C, O, 前O のうちのどれか
 
-例文
+例:
 - I know __what this is__.  
   <sup>(私にはこれがなんなのかわかる)</sup>
 - __Who painted this picture__ is a mystery.  
@@ -97,7 +98,7 @@ if 節は例外的に「Oとしてしかはたらかない名詞節」です。
 - Bob doesn't tell me __whom Meg loves__.  
   <sup>(ボブは私にメグが誰が好きなのかを教えてくれない)</sup>
 
-### <a id="A-2"></a>A-2 whose, what, which
+## <a id="A-2">A-2</a> whose, what, which
 これらは「疑問形容詞」でした。
 疑問形容詞の直後の名詞は、前方にありながら、Sとは限らず、C, O, 前O の可能性もあります。
 
@@ -108,7 +109,7 @@ if 節は例外的に「Oとしてしかはたらかない名詞節」です。
 - 名詞節になる前の疑問文はどのような形か
 - 接続詞(疑問詞)によって修飾される名詞の要素は、S, C, O, 前O のちどれか
 
-例文
+例:
 - Can you imagine __what song this is__?  
   <sup>(これが何のうたなのかを想像できるか)</sup>
 - I don't know __which man Lisa chose__.  
@@ -118,7 +119,7 @@ if 節は例外的に「Oとしてしかはたらかない名詞節」です。
 - The lady told me __which station we should change train at__.  
   <sup>(その女性は、私たちがどの駅で電車を乗り換えるべきか教えてくれた)</sup>
 
-### <a id="A-3"></a>A-3 where, when, why, how
+## <a id="A-3">A-3</a> where, when, why, how
 where, when, why, how は動詞修飾語です。
 
 <img src="fig/従位接続詞-A_3.png" width="600"/>
@@ -127,7 +128,7 @@ where, when, why, how は動詞修飾語です。
 - 名詞節全体の要素は何か
 - 名詞節になる前の疑問文はどのような形か
 
-例文
+例:
 - I know __where she lives__.  
   <sup>(私は彼女がどこに住んでいるのかを知っている)</sup>
 - The only question is __when the man died__.  
@@ -137,7 +138,7 @@ where, when, why, how は動詞修飾語です。
 - __How they opened the door__ is a riddle.  
   <sup>(どのように彼らがそのドアを開けたのかは謎だ)</sup>
 
-### <a id="A-4"></a>A-4 how
+## <a id="A-4">A-4</a> how
 how には「どのように」という意味に加えて、「どれくらい」という意味もあるのでした。
 形容詞修飾語、副詞修飾語としてはたらく how です。
 
@@ -147,13 +148,13 @@ how には「どのように」という意味に加えて、「どれくらい�
 - 名詞節全体の要素
 - 名詞節の元の疑問文
 
-例文
+例:
 - I know __how old Lisa is__.  
   <sup>(私はリサが何歳なのかを知っている)</sup>
 - Meg was asked __how fast she can swim__.  
   <sup>(メグはどれくらい速く泳げるかを尋ねられた)</sup>
 
-### A-1 と A-3 の訳語の追加
+## A-1 と A-3 の訳語の追加
 A-1の what節と、A-3の where節、when節、why節、how節においては、
 それぞれ「何」「どこ」「いつ」「なぜ」「どのように」という訳に加えて
 もう1つの訳が存在します。
