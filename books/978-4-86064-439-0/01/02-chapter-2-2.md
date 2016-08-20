@@ -61,13 +61,13 @@ S V  C         前   O        S v    V        ((前  O) = 動詞修飾語)
 ```
 
 例: まとめ
-- __Whatever he writes here__ is sent abroad by e-mail.
+- __Whatever he writes here__ is sent abroad by e-mail.  
   <sup>(彼がここに書くものはすべて、メールで海外に送られる)</sup>
-- Take __whichever you want__.
+- Take __whichever you want__.  
   <sup>(どちらでも君がほしいほうを取りなさい)</sup>
-- __Whoever touches this stone__ becomes sick.
+- __Whoever touches this stone__ becomes sick.  
   <sup>(この石に触る人は皆、病気になる)</sup>
-- I am satisfied with __whatever I have archived until now__.
+- I am satisfied with __whatever I have archived until now__.  
   <sup>(私は自分が今までに達成してきたことの全てに満足している)</sup>
 
 ### <a id="C-1+">C-1'</a> whoever, whatever, whiciever
