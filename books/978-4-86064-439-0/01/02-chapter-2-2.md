@@ -132,7 +132,7 @@ Whoever you borrow money from, you must pay it back.
 
 <img src="fig/従位接続詞後半-A_2-イメージ図.png" width="600"/>
 
-<img src="fig/従位接続詞後半-A_2-訳.png" width="600"/>
+<img src="fig/従位接続詞後半-A_2-接続詞の訳.png" width="600"/>
 
 次のことを考えながら例文を読みます。
 - 接続詞によって修飾されている名詞の要素はなにか
@@ -174,7 +174,7 @@ S           V         名修     O2   S V    O1
 
 <img src="fig/従位接続詞後半-C_2-イメージ図.png" width="600"/>
 
-<img src="fig/従位接続詞後半-C_2-訳.png" width="600"/>
+<img src="fig/従位接続詞後半-C_2-接続詞の訳.png" width="600"/>
 
 例: 1
 ```
