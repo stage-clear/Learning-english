@@ -13,7 +13,7 @@
 
 > __(1)が「何がどうする？」という疑問が生じる名詞である。__
 
-例: <sup>タイプXの形容詞節</sup>
+例: タイプXの形容詞節
 ```
 1. 可能性
 2. 四国でカワウソが発見される
@@ -34,7 +34,7 @@
 - 「本能寺の変」を計画したのは豊富秀吉だという仮説
 ```
 
-例: <sup>タイプYの形容詞</sup>
+例: タイプYの形容詞
 ```
 1. ハンカチ
 2. 彼が私にハンカチをくれた
@@ -77,14 +77,14 @@ news は「何がどうする？」という疑問が生じる名詞です
 この that はどの要素にもなりません。  
 この B-0 の that は「同格の that」と呼ばれます。
 
-例: <sup>類例</sup>
+例: 類例
 ```
 1. the rumor
 2. John in a gangster.
 -> the rumor that John in a gangster.
 ```
 
-例: <sup>「名詞 + 同格の that」</sup>
+例: 「名詞 + 同格の that」
 - _The news_ __that Meg was arrested__ is shocking to me.  
   <sup>(メグが逮捕されたというニュースは、私には衝撃的だった)</sup>
 - Did you hear _the rumor_ __that John is a gangster__?  
@@ -105,7 +105,7 @@ news は「何がどうする？」という疑問が生じる名詞です
 ### グループ2: place, are
 place, area は「何がどうする？」という疑問が生じる名詞です。
 
-例: <sup>place</sup>
+例: place
 ```
 1. the place
 2. My dog died.
@@ -115,17 +115,17 @@ place, area は「何がどうする？」という疑問が生じる名詞で�
 2 は 1 の内容だと言えません。  
 よってこの that 節は、同格の that 節とは異質なもので、この that を「__関係副詞の that__」と呼びます。
 
-グループ2: 時間に関する名詞 <sup>(具体的な時間、年月日以外)</sup>
+グループ2: 時間に関する名詞 <sup>(具体的な時間、年月日以外)</sup>  
 time は、「何がどうする？」という疑問が生じる名詞です。
 
-例: <sup>time</sup>
+例: time
 ```
 1. the time
 2. Bicycles were rare.
 -> the time that bicycles were rare.
    (自転車が珍しかった時)
 ```
-2 は 1の内容とは言えません。  
+2 は 1 の内容とは言えません。  
 この that 節も、同格の that 節とは異質なものなので、この that も関係副詞と呼ばれます。
 
 具体的な時間や年月日以外のものなら、that 節に修飾されます。
@@ -140,13 +140,13 @@ the year that Meg lived in Berlin.
 ### グループ2: reason, way
 reason, way も「何がどうする？」という疑問が生じる名詞です。
 
-例: <sup>reason, way</sup>
+例: reason, way
 ```
 the reason that Lisa never speaks
 the way that my son caught a rat
 ```
 
-例: <sup>グループ2の名詞を修飾する that 節</sup>
+例: グループ2の名詞を修飾する that 節
 ```
 the area that the deer lives
 the moment that I found the treasure
@@ -155,7 +155,7 @@ the reason that I love you
 the way that they clean the ship
 ```
 
-例: <sup>「名詞 + 関係副詞」が文中で使われている例</sup>
+例: 「名詞 + 関係副詞」が文中で使われている例
 - Lisa told me _tha place_ __that my dog died.__  
   <sup>(リサは僕に、僕の犬が死んだ場所を教えてくれた)</sup>
 - I will talk about _the time_ __that bicycles were here__.  
@@ -237,7 +237,7 @@ the way that they clean the ship
                名詞修飾語
 ```
 
-例: <sup>第4文型の場合</sup>
+例: 第4文型の場合
 ```
 1. the letter
 2. I sent Meg the letter
@@ -249,7 +249,7 @@ the way that they clean the ship
 -> the letter that[which] I sent Meg
 ```
 
-例: <sup>第5文型の場合</sup>
+例: 第5文型の場合
 ```
 1. the man
 2. We call the man Bob.
@@ -309,7 +309,7 @@ the way that they clean the ship
 - __関係代名詞が形成する節は「関係代名詞節」と呼ばれる__
 - __関係代名詞節によって修飾される名詞は「先行詞」と呼ばれる__
 
-例: <sup>「名詞（先行詞） + 関係代名詞節」が文中で使われるようす</sup>
+例: 「名詞（先行詞） + 関係代名詞節」が文中で使われるようす
 - _The girl_ __who is dancing there__ is my daughter.  
   <sup>(そこで踊っている少女は私の娘だ)</sup>
 - This is _an animal_ __that lives in the water__.  
@@ -351,7 +351,7 @@ the way that they clean the ship
 -> the girl whose voice is very beautiful
 ```
 
-例: <sup>「名詞 + whose 節」が文中で用いられるようす</sup>
+例: 「名詞 + whose 節」が文中で用いられるようす
 - _The man_ __whose shoulder Meg touched__ was very tall.
   <sup>(メグが肩を触った男はとても背が高かった)</sup>
 - I know _a girl_ __whose voice is very beautiful_.
@@ -376,7 +376,7 @@ __全ての名詞が関係代名詞、関係形容詞によって修飾される
 場所に関する名詞の全てが、where 節によって修飾されます。
 (ということは、place と area は、that 節にも where 節にも修飾されることになります)
 
-例: <sup>where</sup>
+例: where
 - I took a picture of _the house_ __where Tom lives__.  
   <sup>(私はトムが住んでいる家の写真を撮った)</sup>
 - This is _a park_ __where we often play tennis__.  
@@ -390,7 +390,7 @@ __全ての名詞が関係代名詞、関係形容詞によって修飾される
 時間に関する名詞の全てが、 when 節によって修飾されます。
 (ということは、具体的な時間、年月日以外のものは、that 節と when 節の両方に修飾されることになります)
 
-例: <sup>when</sup>
+例: when
 - I lived in Osaka in _1970_ __when the expo was held__.  
   <sup>(その博覧会が開かれた1970年に、私は大阪に住んでいた)</sup>
 - That was _an evening_ __when everthyng was shining__.  
@@ -403,7 +403,7 @@ __全ての名詞が関係代名詞、関係形容詞によって修飾される
 ### why
 reason は、関係副詞の that 節によって修飾されるのですが、that ではなく why を用いることもできます。
 
-例: <sup>reason が why 節に修飾されている例</sup>
+例: reason が why 節に修飾されている例
 - _The reason_ __why my daugther bacame a nun__ is not clear.  
   <sup>(娘が尼さんになった理由は明らかではない)</sup>
 - Tell me _the reason_ __why you are so beautiful__.  
