@@ -424,4 +424,4 @@ reason の後ろの接続詞は省略されるのが一般的です。
 
 <img src="fig/従位接続詞-関係詞.png" width="600"/>
 
-<img src="fig/従位接続詞-B_3-すべての名詞" width="600"/>
+<img src="fig/従位接続詞-B_3-すべての名詞.png" width="600"/>
