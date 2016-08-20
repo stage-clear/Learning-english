@@ -1,6 +1,6 @@
 # as
 この as は従位接続詞の一覧表ではとらえきれないほど多種多様な用法があります。  
-ここでは、名詞修飾語としてはたらく節を形成するものと、動詞修飾語としてはたらく節を形成するものをみます。
+ここでは、__名詞修飾語__としてはたらく節を形成するものと、__動詞修飾語__としてはたらく節を形成するものをみます。
 
 ## 名詞修飾語を形成する as
 例: 名詞修飾語を形成する as
@@ -24,19 +24,19 @@
 「と」は「と」「とき」「とおり」という3つの約語を代表させたものです。
 
 例:
-- Dr. Smith was _sleeping_ on a sofa __as we arrived__.
+- Dr. Smith was _sleeping_ on a sofa __as we arrived__.  
   <sup>(我々が着いた時、スミス博士はソファで寝ていた)</sup>
-- Meg _stayed_ in the room __as she was told__.
+- Meg _stayed_ in the room __as she was told__.  
   <sup>(メグは言われた通り、その部屋にいた)</sup>
-- __As I was walking in Liverpool__, I _found_ a nice bar.
+- __As I was walking in Liverpool__, I _found_ a nice bar.  
   <sup>(リバプールを歩いていたら、素敵なバーを見つけたんだ)</sup>
-- __As I was tired__, I _went_ to bed early.
+- __As I was tired__, I _went_ to bed early.  
   <sup>(疲れていたので早く床に就いた)</sup>
-- _Take_ things __as they are__.
+- _Take_ things __as they are__.  
   <sup>(物事をあるがままに受け取れ)</sup>
-- _Do_ __as you like__.
+- _Do_ __as you like__.  
   <sup>(好きなようにしなさい)</sup>
-- __As you rise__, the air _cools_.
+- __As you rise__, the air _cools_.  
   <sup>(上に登るにつれて空気は冷える)</sup>
 
 下から3番目の文では be 動詞を「ある」と訳しています。
