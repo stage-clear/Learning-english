@@ -175,3 +175,42 @@ S           V         名修     O2   S V    O1
 <img src="fig/従位接続詞後半-C_2-イメージ図.png" width="600"/>
 
 <img src="fig/従位接続詞後半-C_2-訳.png" width="600"/>
+
+例: 1
+```
+Whichever song he may choose, he will sing it well.
+名修      O    S  v   V       S  v    V    O  動修
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+動詞修飾語
+
+1) 彼はどちらの歌を選ぼうとも、それを上手に歌えるだろう
+```
+
+例: 2
+```
+Whatever accident may happen, I'll support you.
+名修     S        v   V       S v  V       O
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+動詞修飾語
+
+1) どんな事件が起ころうとも、私はあなたを支えるつもりだ
+```
+
+例: 3
+```
+The noise would annoy you, whichever room you work in.
+    S     v     V     O    名修      前O  S   V    前
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                           動詞修飾語
+
+1) 君がどちらの部屋で働こうとも、その騒音が君を悩ませるだろう
+```
+
+例: まとめ
+- __Whichever song he may choose__, he will _sing_ it well.
+  <sup>(彼はどちらの歌を選ぼうとも、それを上手に歌うだろう)</sup>
+- __Whatever accident may happen__, I'll _support_ you.
+  <sup>(どんな事件が起ころうとも、私はあなたを支えるつもりだ)</sup>
+- The noise would annoy you, __whichever room you work in__.
+  <sup>(君がどちらの部屋で働こうとも、その騒音が君を悩ませるだろう)</sup>
+
