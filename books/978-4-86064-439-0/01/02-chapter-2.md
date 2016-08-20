@@ -28,6 +28,7 @@
 ## 5. [従位接続詞の一覧の後半](02-chapter-2-2.md)
 
 <img src="fig/従位接続詞の一覧-後半.png" width="600"/>
+
 :arrow_forward: <a href="02-chapter-2-2.md#A-1+">A-1'</a>
 
 
