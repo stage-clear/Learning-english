@@ -566,3 +566,42 @@ __全ての名詞が関係代名詞、関係形容詞によって修飾される
 <img src="fig/従位接続詞-B_2-すべての名詞.png" width="600"/>
 
 ### <a id="B-3"></a>B-3 where, when, why
+#### where
+場所に関する名詞の全てが、where 節によって修飾されます。
+(ということは、place と area は、that 節にも where 節にも修飾されることになります)
+
+例: where
+- I took a picture of _the house_ __where Tom lives__.  
+  <sup>(私はトムが住んでいる家の写真を撮った)</sup>
+- This is _a park_ __where we often play tennis__.  
+  <sup>(ここは私たちがよくテニスをした公園だ)</sup>
+- This is _the mountain_ __where my dog disappeared__.  
+  <sup>(ここがうちの犬が消えた山だ)</sup>
+- Take me to _the place_ __where you caught this bird__.  
+  <sup>(君がこの鳥を捕まえた場所に私を連れて行ってくれ)</sup>
+
+#### when
+時間に関する名詞の全てが、 when 節によって修飾されます。
+(ということは、具体的な時間、年月日以外のものは、that 節と when 節の両方に修飾されることになります)
+
+例: when
+- I lived in Osaka in _1970_ __when the expo was held__.  
+  <sup>(その博覧会が開かれた1970年に、私は大阪に住んでいた)</sup>
+- That was _an evening_ __when everthyng was shining__.  
+  <sup>(それはすべてが輝いていた夕方だった)</sup>
+- Sometimes I can't remember _the days_ __when I was young__.  
+  <sup>(時々、若かった日々のことを思い出せないことがある)</sup>
+- _The time_ __when we were happy__ was very long.  
+  <sup>(私たちが幸せだった日々はとても長かった)</sup>
+
+#### why
+reason は、関係副詞の that 節によって修飾されるのですが、that ではなく why を用いることもできます。
+
+例: reason が why 節に修飾されている例
+- _The reason_ __why my daugther bacame a nun__ is not clear.  
+  <sup>(娘が尼さんになった理由は明らかではない)</sup>
+- Tell me _the reason_ __why you are so beautiful__.  
+  <sup>(君がそんなにきれいなわけを教えてくれ)</sup>
+
+なお、reason と why が連続すると、ややくどう感じになります。
+reason の後ろの接続詞は省略されるのが一般的です。
