@@ -51,5 +51,45 @@ S      ^^^^^^^^^^ V    O
        v
 ```
 
+toV 句の名詞的用法の形として、もう1つ、次のものを知ってください
+
 <img src="fig/準動詞句-A_1-もう一つの名詞用法の形.png" width="600"/>
+
+この表現においては、to という語の中心の意味 (どこかに向かう「→」の意味。具体的には「意思」「義務」「予定」など) が
+はっきりと存在します。よって、それを訳に反映させます。
+
+例:
+- I wonder __who to invite__.
+  <sup>(誰を招待するべきかということを思う → 誰を招待するべきだろうか)</sup>
+- We couldn't decide __whether to go or stay__.
+  <sup>(我々は行くべきか留まるべきか決められなかった)</sup>
+- I don't know __how to raise this animal__.
+  <sup>(この動物をどうやって育てるべきかわからない。)</sup>
+
+全て「べき」という訳語で、義務のニュアンスを出しています。
+
+## <a id="A-2">A-2</a> S, C, O, 前置詞のO としてはたらく Ving 句
+
+<img src="fig/準動詞句-A_2-イメージ図.png" width="600"/>
+
+この Ving 句も「~こと」「~の」という訳になります。
+この Ving 句は「動名詞」と呼ばれます。
+
+例:
+- __Talking with this bird__ relaxies my mind.
+  <sup>(この鳥としゃべることが私の心を落ち着かせる → この鳥としゃべると心が落ち着く)</sup>
+- __Reading in the dark__ dameges your eyes.
+  <sup>(暗いところで読書をすることが目に害を及ぼす → 暗いところで読書すると目が悪くなる)</sup>
+- One of my bad habits is __biting pencils__.
+  <sup>(私の悪い癖の1つは鉛筆を噛むことだ)</sup>
+- Your only fault is __speaking too fast__.
+  <sup>(君の唯一の欠点は速くしゃべりすぎることだ)</sup>
+- My father often enjoys __playing tennis__.
+  <sup>(父はよくテニスをするのを楽しむ)</sup>
+- Stop __sleeping in my room__.
+  <sup>(僕の部屋で寝るのはやめてくれ)</sup>
+- Before __attacking a horse__, the tiger roared three times.
+  <sup>(馬を攻撃する前に、そのトラは3回吠えた)</sup>
+- Meg left me without __saying good-bye__.
+  <sup>(メグはさよならも言わずに僕のもとを去った)</sup>
 
