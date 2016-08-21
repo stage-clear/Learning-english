@@ -284,10 +284,10 @@ This is a symphony which was composed by Mozart.
 
 例: 類例
 - What is _the language_ __spoken in your country__?  
-  <sup>(あなたの国で話されている言語は何か)</sup>
+  <sup>(あなたの国で話されている言語は何か)</sup>  
   <sup>(What is the language that[which] is spoken your country.)</sup>
 - I have _a picture_ __painted by Turner__.  
-  <sup>(私はターナーによって描かれた絵を持っている)</sup>
+  <sup>(私はターナーによって描かれた絵を持っている)</sup>  
   <sup>(I have a picture that[which] was painted by Turner)</sup>
 
 類: 前からの修飾
