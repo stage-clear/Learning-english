@@ -64,3 +64,4 @@ __so as to V__、__in order to V__ という形で用いられることがあり
 - __Given enough time__, I can _do_ the job.  
   <sup>(十分な時間が与えられたら、私はその仕事ができる)</sup>
 
+:white_check_mark: 暗記!
