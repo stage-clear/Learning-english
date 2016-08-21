@@ -135,7 +135,7 @@ Ving 句によって修飾される形容詞は極めて少数です。
 主語の this watch と his songs を目的語として解釈します。
 つまり「worth + Ving 句」においては次のような読み方必要になるのです。
 
-<img src="fig/準動詞句-D_2-worth.png" width="600"/>
+<img src="fig/準動詞句-D_2-目的語の欠け.png" width="600"/>
 
 
 
