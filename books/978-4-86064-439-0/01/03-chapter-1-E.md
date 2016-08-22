@@ -276,3 +276,77 @@ S  V    O       ^^^^^^^^^^^^^^^^^^^
 ```
 
 <img src="fig/準動詞句-E_3-be動詞.png" width="600"/>
+
+例: make 「O が C された状態を作り出す」
+```
+You should make your voice heard by the government.
+S   v      V         O     ^^^^^^^^^^^^^^^^^^^^^^^
+                           C
+(君は政府に君の声を届けるべきだ)
+(Your voice is heard by the government.)
+```
+
+例: keep 「保っておく」
+```
+Keep the door locked.
+V        O    ^^^^^^
+              C
+(The door is locked.)
+(ドアに鍵をかけておきなさい)
+```
+
+例: leave 「放っておく」
+```
+Bob left his car destroyed.
+S   V        O   ^^^^^^^^^
+                 C
+(ボブは車が壊れたままにしておいた)
+(His car was destroyed.)
+```
+
+have を用いた場合の訳
+- 自分がその状態を作り出した場合 → 「~する」「~してしまう」
+- 自分が命じて、他人がその状況を作り出した場合 → 「~させる」
+- 依頼した場合 → 「~してもらう」
+- 望んでもないのに OC の状況が生み出された場合 → 「~される」
+
+例: get, have 「OC の状態を得る、持つ」
+```
+Tom got his watch mended by his father.
+S   V       O     ^^^^^^^^^^^^^^^^^^^^
+                  C
+(トムは父親に時計を直してもらった) [依頼]
+(His watch was meded by his father.)
+```
+
+```
+I had my car broken.
+S V      O   C
+
+(私は車を壊された)　[望んでいない状況]
+(My car was broken.)
+```
+
+```
+Where did you have your hair cut?
+      v   S   V          O   C
+(どこで髪を切ってもらったの) [依頼]
+(You hair was cut.)
+```
+
+```
+I will have the work finished by ten.
+S v    V        O    ^^^^^^^^^^^^^^^
+                     C
+(仕事を10までにしてしまうつもりだ) [自分が作り出した状況]
+(The work will be finised by ten.)
+```
+
+```
+He got the draft typed by his secretary.
+S  V       O     ^^^^^^^^^^^^^^^^^^^^^^
+                 C
+(彼はその下書きを秘書にタイプさせた) [自分が命じた]
+(The draft was typed by his secretary.)
+```
+
