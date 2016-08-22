@@ -37,6 +37,11 @@ S   v   V    ^^^^^^^^^^^^ 動修
 > べつの表現を用いたほうが、より自然な文になります。
 > それについては、次の「パターン3の受動態」「パターン4の受動態」のところで述べます。
 
+:speech_balloon: パターン2を受動態にすると必ず to が現れる。  
+:speech_balloon: パターン2を受動態にしたものはあまり使われません。  
+:speech_balloon: 知覚動詞を用いいたものは to V 句ではなく Ving 句を用いいた方が自然です。  
+:speech_balloon: 「be made to V」よりも「be force to V」のほうが好まれます。  
+
 ## パターン3 の受動態
 例: Lisa told me to dance.
 ```
