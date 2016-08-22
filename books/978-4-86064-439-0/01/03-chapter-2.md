@@ -7,7 +7,7 @@
 > 準動詞句の内側には主語(S)が存在しない。準動詞句の主体は読み手[聞き手]が自力で判断する
 
 例: それぞれの主体を考える
-- He came here to help me. 
+- He came here to help me.  
   <sup>(彼は私を助けるためにここに来た)</sup>
 - I need a man to help me.  
   <sup>(私は助けてくれる人を必要としている)</sup>
