@@ -98,10 +98,13 @@ Lisa is said to live in this town.
 - Bob __was believed to__ hate the manager.  
   <sup>(ボブはその監督を嫌っていると信じられていた)</sup>
 
-これらに関しては、次のまとまりで記憶してください
-- be said to V (V すると言われている)
-- be thought to V (V すると思われている)
-- be believe to V (V すると信じられている)
+:point_right: これらに関しては、次のまとまりで記憶してください
+- be said to V  
+  <sup>(V すると言われている)</sup>
+- be thought to V  
+  <sup>(V すると思われている)</sup>
+- be believe to V  
+  <sup>(V すると信じられている)</sup>
 
 ## パターン4の受動態
 
@@ -155,3 +158,5 @@ I was seen punched by Yumi by Tom.
 His vehicle was seen abandoned near the river.
 (彼の車は川の近くに捨てられているのを目撃された)
 ```
+
+:speech_balloon: ほとんど存在しないものだと言えます。
