@@ -27,6 +27,3 @@
 ### 第2章 [準動詞句の主体](03-chapter-2.md)
 
 <img src="fig/起の巻まとめ.png" width="600"/>
-
-例: 長文
-- Churchill is special in that when I think about him, I never realize that he was politician or a writer or that he spoke English.
