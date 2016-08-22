@@ -1,3 +1,5 @@
+:arrow_left: [準動詞句の機能と意味](03-chapter-1.md)
+
 # S be Ved C の C としてはたらく準動詞句
 
 <img src="fig/準動詞句-E-第5文型の受動態.png" width="600"/>
