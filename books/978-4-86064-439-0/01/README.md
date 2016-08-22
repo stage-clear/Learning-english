@@ -25,3 +25,8 @@
 ## 第3部 準動詞句
 ### 第1章 [準動詞句の機能と意味](03-chapter-1.md)
 ### 第2章 [準動詞句の主体](03-chapter-2.md)
+
+<img src="fig/起の巻まとめ.png" width="600"/>
+
+例: 長文
+- Churchill is special in that when I think about him, I never realize that he was politician or a writer or that he spoke English.
