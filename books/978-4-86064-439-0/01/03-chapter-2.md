@@ -70,15 +70,15 @@ __準動詞句に対する意味上の主語の不可__
 
 例: 動名詞 (2) 代名詞
 - Do you mind __my__ smoking here?  
-  <sup>(君は私がここで喫煙することを気にするか → ここで喫煙してもいいか)</sup>
+  <sup>(君は私がここで喫煙することを気にするか → ここで喫煙してもいいか)</sup>  
   <sup>(smoking here が mind の O で、代名詞 I の所有格 my が意味上の主語として加わっています。)</sup>
-- My husband hates __me__ dancing in his study room.
-  <sup>(夫は私が彼の勉強部屋で踊るのを嫌がる)</sup>
+- My husband hates __me__ dancing in his study room.  
+  <sup>(夫は私が彼の勉強部屋で踊るのを嫌がる)</sup>  
   <sup>(dancing in his study room が動詞 hates の O で、代名詞 I の目的格 me が意味上の主語として加わっています。)</sup>
 
 例: 分詞構文に「意味上の主語」を加える
 - __My wife__ having a cellphone, I was able to call my mother.  
-  <sup>妻が携帯電話を持っていたので、私は母に電話できた</sup>  
+  <sup>(妻が携帯電話を持っていたので、私は母に電話できた)</sup>  
   <sup>my wife が意味上の主語です。</sup>
 
 このような「意味上の主語 + Ving 句(分詞構文)」は、かなり堅い表現です。  
@@ -92,7 +92,7 @@ Because my wife had a cellphone, I was able to call my mother.
 C-2と同じように、意味上の主語はそのままの形で加えます。
 
 例:
-- __My work__ done, I went to the bar.
+- __My work__ done, I went to the bar.  
   <sup>(自分の仕事を終えられて → 自分の仕事を終えて、私はそのバーに行った)</sup>
-- __The windows__ cleaned, my mother had a coffee.
+- __The windows__ cleaned, my mother had a coffee.  
   <sup>(窓が洗われて → 窓を洗い終えて、母はコーヒーを飲んだ)</sup>
