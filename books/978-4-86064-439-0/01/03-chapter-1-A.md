@@ -1,4 +1,4 @@
-:arrow_left: [準動詞句](02-chapter-3.md)
+:arrow_left: [準動詞句の機能と意味](03-chapter-1.md)
 
 # S, C, O 前置詞の O としてはたらく準動詞句
 ## <a id="A-1">A-1</a> S, C, O, 前置詞の O としてはたらく toV 句
