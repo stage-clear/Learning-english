@@ -37,7 +37,9 @@ Sometimes we literally type "oooooo" into the Slack channel where we save and di
 A JavaScript library that generates complementary gradients from the two dominant colors of a given image. 
 ^^^^^^^^^^^^^^^^^^^^ φ    V         名修          O         前   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 S                                                                前O
-
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                     名詞修飾語
+-----
 [B-1]
 (与えられた画像の主な色2からグラデーションを生成します)
 
