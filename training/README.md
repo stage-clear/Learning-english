@@ -49,12 +49,28 @@ dominant: 優勢な
 ```
 
 ```
-Help contribute to the collection of insightful data for evaluating the current state of JavaScript (technologies) 
-S    V          前 
-
+Help contribute to the collection of insightful data for evaluating the current state of JavaScript
+S    V          前 前O
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                   
 最近のJavaScriptの状態を評価するための洞察に富んだデータコレクション
 
 insightful: 洞察に富んだ
 evaluate: 評価する
 with this survey by Sacha Greif.
+```
+
+```
+Hi all! 
+
+I'm the person who made this, so if you have any  questions just ask away 
+S V     C      ^^^^^^^^^^^^^     φ  S   V    名修 O              V   動飾
+               名修[B-1]
+(私はこれを作ったものです。なので、もし質問があればどんどん聞いて)
+
+
+-- I will be checking this thread for the next several hours at least.
+   S v    V                O      前  前O
+
+(少なくとも数時間後にこのスレッドをチェックするよ)
 ```
