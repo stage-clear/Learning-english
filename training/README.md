@@ -30,7 +30,18 @@ S    V   C                    S  v  V        動修 動修        v    V    O1 O
 stumbled upon: 偶然出会う、ひょっこり気づく
 with delight: おおよろこびで
 
-Sometimes we literally type "oooooo" into the Slack channel where we save and discuss these. It's a fairly new thing we've started doing. 
+Sometimes we literally type "oooooo" into the Slack channel where we save and discuss these. It's a fairly new thing we've started doing.
+```
 
-Enjoy!
+```
+A JavaScript library that generates complementary gradients from the two dominant colors of a given image. 
+^^^^^^^^^^^^^^^^^^^^ φ    V         名修          O         前   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+S                                                                前O
+
+[B-1]
+(与えられた画像の主な色2からグラデーションを生成します)
+
+generates: 生成する
+complementary: 補足的な
+dominant: 優勢な
 ```
