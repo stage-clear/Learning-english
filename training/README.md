@@ -47,3 +47,14 @@ generates: 生成する
 complementary: 補足的な
 dominant: 優勢な
 ```
+
+```
+Help contribute to the collection of insightful data for evaluating the current state of JavaScript (technologies) 
+S    V          前 
+
+最近のJavaScriptの状態を評価するための洞察に富んだデータコレクション
+
+insightful: 洞察に富んだ
+evaluate: 評価する
+with this survey by Sacha Greif.
+```
