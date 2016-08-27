@@ -63,15 +63,9 @@ to 不定詞形になるものもあります。
   <sup>(私は、明日の午後5時にメグに会う予定になっている) [予定]</sup>
 - What __am I__ _to do_ next?  
   <sup>(私は次に何をするべきだろうか) [義務]</sup>
-- You should start training now, if you __are__ _to win_ the game.
+- You should start training now, if you __are__ _to win_ the game.  
   <sup>(もしその試合に勝ちたいなら、もうトレーニングをはじめたほうがいい) [意志]</sup>
 - The star __is__ _to be_ seen early in the morning.  
   <sup>(その星は、夕方の早い時間に見られる) [可能]</sup>
 - Ted __was__ not _to return_ to his hometown.  
   <sup>(テッドは故郷に戻らない運命にあった) [運命]</sup>
-
-
-
-
-
-  <sup>()</sup>
