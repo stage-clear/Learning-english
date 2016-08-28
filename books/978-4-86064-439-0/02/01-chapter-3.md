@@ -130,8 +130,57 @@
 ```
 
 ## 6. 準動詞句への変化
+完了形の文も toV 句になります。また Ving 句にもなります。
 
+```
+完了形の文が toV 句になったもの
+ to have V (過去分詞形)
+完了形の文が Ving 句になったもの
+ having V (過去分詞形)
+```
+注意しなくてはならないのは、いずれにおいても、現在完了形に相当するものと、過去完了に相当するものがあるということです。
 
+例: toV 句
+- I am satisfied __to have finished the task smoothly__.
+  <sup>(その仕事を円滑に終えて満足している)</sup>
+- My wife pretended __to have seen the movie several times__.
+  <sup>(妻はその映画を何回か観たことがあるかのようにふるまった)</sup>
+
+例: Ving 句
+- __Having visited the city twice__, I know the beauty of it.
+  <sup>(2度訪れたことがあり、その都市の美しさを知っている)</sup>
+- __Having visited the city twict__, I knew the beauty of it.
+  <sup>(2度訪れたことがあり、その都市の美しさを知っていた)</sup>
+
+```
+[to have V (過去分詞形)、having V (過去分詞形)]
+1. 現在完了に相当するもの
+2. 過去完了に相当するもの
+```
+
+例: toV 句 - 大過去
+- At the party, Lisa pretended __to have lived in Paris when she was young__.
+  <sup>(そのパーティで、リサは若い頃パリに住んでいたふりをした)</sup>
+- My son appeared __to have stayed at Meg's house on the previous night__.
+  <sup>(息子は前の晩、メグの家に滞在していたようだった)</sup>
+
+例: toV 句 - 現在から過去へのズレ
+- My husband often pretends __to have poor when he was a university student__.
+  <sup>(夫はよく、大学生時代に貧乏だったふるをする)</sup>
+
+例: having 過去分詞形
+- This morning, my husband admitted __having met Meg last night__.
+  <sup>(今朝、夫は昨日の夜メグと会ったことを認めた)</sup>
+- You should admit __having been with Lisa when I called you__.
+  <sup>(あなたは、私が電話した時にリサと一緒にいたことを認めるべきだ)</sup>
+
+```
+[to have V (過去分詞形)、having V (過去分詞形)]
+1. 現在完了に相当するもの
+2. 過去完了に相当するもの (= 「本来の過去完了」に相当するもの)
+3. 過去へのズレを表すもの
+   * 大過去に類するものだが、大過去とは異なり「現在から過去へのズレ」をも表す
+```
 
 
 
