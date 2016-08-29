@@ -2,6 +2,9 @@
 
 <img src="fig/進行形-イメージ図.png" width="600"/>
 
+:point_right: 受動態の文が進行形になったものは慣れるまでに時間がかかる  
+:point_right: 進行形には「予定」「意思」の意味がある
+
 ## 1. 現在進行形
 
 例:
@@ -40,6 +43,9 @@
 ## 3. 準動詞句への変化
 進行形の文を toV 句にすると、「to be ing形」という形になるのです。
 
+:point_right: 進行形の文が準動詞句になった toV 句 / ing 句は使いこなせる人が非常に少ない  
+:point_right: このセクションの例文は暗記!
+
 例: toV 句
 - Tom often pretends __to be working hard__.  
   <sup>(トムは、しばしば懸命に働いているふりをする)</sup>
@@ -69,3 +75,5 @@ to 不定詞形になるものもあります。
   <sup>(その星は、夕方の早い時間に見られる) [可能]</sup>
 - Ted __was__ not _to return_ to his hometown.  
   <sup>(テッドは故郷に戻らない運命にあった) [運命]</sup>
+
+
