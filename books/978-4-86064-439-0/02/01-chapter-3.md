@@ -158,7 +158,7 @@
 例: Ving 句
 - __Having visited the city twice__, I know the beauty of it.  
   <sup>(2度訪れたことがあり、その都市の美しさを知っている)</sup>
-- __Having visited the city twict__, I knew the beauty of it.  
+- __Having visited the city twice__, I knew the beauty of it.  
   <sup>(2度訪れたことがあり、その都市の美しさを知っていた)</sup>
 
 ```
