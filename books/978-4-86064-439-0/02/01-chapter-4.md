@@ -255,5 +255,55 @@ must (~しなくてはならない) の否定形は、「~してはならない�
 <img src="fig/法助動詞-進行形のイメージ図.png" width="600px"/>
 
 ## <a id="法助動詞完了形"></a>5. 法助動詞 + 完了形
+法助動詞は完了形にも加わります。この場合も、法助動詞の後ろの部分の基準時は、現在である場合と、未来の時点である場合があります。
+
+例: 基準時が現在 - 法助動詞で推量を加えています
+- My son __may__ _have read_ this book several times.  
+  <sup>(息子はこの本を何回か読んだことがあるかもしれない) [結果 + 経験]</sup>
+- Tom __should__ _have finished_ the work now.  
+  <sup>(トムは、今はその仕事を終えているはずだ) [結果 + 完了]</sup>
+- Meg __must__ _have been_ happy since she came here.  
+  <sup>(メグはここに来て以来、ずっと幸せにちがいない) [継続]</sup>
+
+例: 基準時が未来
+- They __would__ _have finished_ this work by the end of this week.  
+  <sup>(今週末までには、彼らはこの仕事を終えているだろう)</sup>
+
+例:
+- When I called Meg, she __may__ _have_ already _read_ my letter.  
+  <sup>(私がメグに電話をした時には、彼女はすでに私の手紙を読んでいたのかもしれない)</sup>
+
+例:
+- She __would__ _have been_ busy until you helped her.  
+  <sup>(君が彼女を助けるまで、彼女はずっと忙しかったのだろう)</sup>
+
+以上からわかることは、法助動詞の後ろの完了形は、現在完了に相当する場合と、
+未来の時点の完了形に相当する場合と、過去完了に相当する場合の3通りがあるということです。
+
+例: 大過去と同様の昨日を持つ場合
+- As I talked with Tom three days ago, I thought that he __would__ _have used_ my bicycle on the previous day.  
+  <sup>(私は3日前にトムと話していて、その前の日に彼が私の自転車を使ったのだと思った)</sup>
+
+例: 法助動詞 + 完了形 - 現在から過去へのズレ
+- It __must__ _have rained_ yesterday.  
+  <sup>(昨日、雨が降ったにちがいない)</sup>
+- You __shouldn't__ _have delivered_ a speech at the party.  
+  <sup>(そのパーティで、君はスピーチをするべきじゃなかった)</sup>
+- Tom __can't__ _have called_ you last night.  
+  <sup>(昨日の夜、トムが君に電話をしたはずがない)</sup>
+- Bob __ought__ _to have met_ Meg here last week.  
+  <sup>(ボブは先週、ここでメグと会ったはずだ)</sup>
+
+全て現在の時点から、過去のことを推量しています。
+これらの完了形は「過去の出来事の結果を受けて、現在、何らかの事態が存在する」という意味はありません。
+「現在から過去へのズレ」を表すための完了形なのです。
+
+> 過去のことに対して推量する場合は、「__法助動詞 + have + 過去分詞形__」という形を用いる  
+> <sup>この知識は、「仮定法」で生きてくることになります</sup>
+
+<img src="fig/法助動詞+完了形も用法のまとめ.png" width="600px"/>
+
+
+
 
   <sup>()</sup>
