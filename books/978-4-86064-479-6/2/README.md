@@ -155,3 +155,49 @@
 
 ## 未来に関する表現
 
+### be to V
+- be to V について、特に注目できることは、**話し手以外の他者によって固く定められているという感覚** です
+
+例:
+1. I **am meeting** him at 11.  
+  <sup>私は11時に彼に会う。(自分で計画や約束して自分で段取りを整えた感覚)</sup>
+2. I **am to meet** him at 11.  
+  <sup>私は11時に彼に会う。(他者によって取り決められアレンジされた感覚--フォーマル--)</sup>
+
+例: その他
+- You **are to** be back by 7.  
+  <sup>7時までに帰らなければならない (権威を持つものによって定められている感覚:義務)</sup>
+- He **was never to** return home again.  
+  <sup>彼は二度と家に戻ってくることはなかった (運命や神様に定められている感覚:運命)</sup>
+- Happiness **is not to** be bought with money.  
+  <sup>幸せは金では買うことはできない (社会的法則や経験則などで定められている感覚:可能)</sup>
+
+### will be Ving (未来進行形)
+
+例:
+1. I **will leave** for Paris tomorrow evening.  
+  <sup>私は明日の晩にパリに向けて出発します(その場で決められた意志)</sup>
+2. I **am goning to** leave Paris tomorrow evening.  
+  <sup>私は明日の晩にパリに向けて出発するつもりです (すでに持っている心づもり)</sup>
+3. I **will be leaving** Paris tomorrow evening.  
+  <sup>私は明日の晩にパリに向けて出発しているでしょう (スケジュールや成り行き、無意志)</sup>
+
+例:
+- I **stay** at Hotel A tomorrow.  
+  <sup>私は明日ホテルAに泊まることになっている（団体として）</sup>  
+  <sup>(公に、あるいは集団として固く定められている感覚)</sup>
+- I **will stay** at Hotel A tomorrow.  
+  <sup>私は明日ホテルAに泊まろう</sup>  
+  <sup> (その場で「よしっ」と心や意思を定める感覚)</sup>
+- I **am going to stay** at Hotel A tomorrow.  
+  <sup>私は明日ホテルAに泊まるつもりです</sup>  
+  <sup>(すでに心づもりができている感覚、あらかじめ意思が定められている感覚)</sup>
+- I **am staying** at Hotel A tomorrow.  
+  <sup>私は明日ホテルAに泊まることになっているんですよ</sup> 
+  <sup>(約束や準備がすべて整っていて、確定していることを心待ちにしている感覚)</sup>
+- I **am to stay** at Hotel A tomorrow.  
+  <sup>私は明日ホテルAに泊まることになっています (会社側で取り決めたことですが...)</sup>  
+  <sup>自分以外の他者によって取り決められアレンジされて、することになっているという感覚</sup>
+- I **will be staying** at Hotel A tomorrow.  
+  <sup>私は明日ホテルAに泊まっているでしょう/泊まることになるでしょう</sup>  
+  <sup>(スケジュールや成り行きなどから、ある時点においてはこうしているだろうという感覚)</sup>
