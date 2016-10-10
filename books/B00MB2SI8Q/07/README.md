@@ -53,7 +53,7 @@ What is this?
 10. How (方法・様態)「どのように」
    - 方法
    A: How did you get home last Sunday? (この前の日曜はどのように帰宅したのですか?)
-   B: I got hoem by taxi. (タクシーで帰りました)
+   B: I got home by taxi. (タクシーで帰りました)
    - 様態
    A: How is your mother? (お母さんはお元気ですか?)
    B: She's fine. (元気ですか)
