@@ -167,7 +167,7 @@ __助動詞の付加疑問文__
 
 ```txt
 Janet can drive, can't she?
-ジャネットは車を運伝できますよね。
+ジャネットは車を運転できますよね。
 ```
 
 ### Point: 助動詞の付加疑問文
@@ -177,10 +177,10 @@ Janet can drive, can't she?
 ----------------------------------------------------------------------
 現在 | can     → , can't ~ ? など     | can't     → , can ~ ? など   |
 過去 | could   → , couldn't ~ ? など  | couldn't  → , could ~ ? など |
-未来 | will    → , won't ~ ? など     | won't     → , will ~ ?       |
-完了 | have[has/had]                  | haven't[hasn't/hadn't]       |
-     |         → , haven't            |           → , have[has/had]  |
-     |             [hasn't/hadn't]    |               ~ ?
+未来 | will    → , won't ~ ? など     | won't     → , will ~ ?　　　 |
+完了 | have[has/had]        　　　    | haven't[hasn't/hadn't]　　　 |
+　　 |         → , haven't  　　　    |           → , have[has/had]  |
+　　 |             [hasn't/hadn't]　　|               ~ ?
 ```
 
 ```txt
