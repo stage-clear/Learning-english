@@ -356,7 +356,7 @@ the way that they clean the ship
 例: 「名詞 + whose 節」が文中で用いられるようす
 - _The man_ __whose shoulder Meg touched__ was very tall.
   <sup>(メグが肩を触った男はとても背が高かった)</sup>
-- I know _a girl_ __whose voice is very beautiful_.
+- I know _a girl_ __whose voice is very beautiful__.
   <sup>(私は声がとても美しい少女を知っている)</sup>
 - I have _a friend_ __whose father is a famouse singer__.
   <sup>(僕には、お父さんがとても有名な歌手である友達がいる)</sup>
