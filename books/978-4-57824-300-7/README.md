@@ -1,9 +1,11 @@
 # シグマ基本問題集英文法
 
-:white_check_mark: 全問正解
-:heavy_exclamation_mark: 1問の間違いか三角がある:
-:bangbang: 2問の間違い
-:x: 3問以上の間違い
+## 採点結果
+__記号の説明:__
+- :white_check_mark: 全問正解
+- :heavy_exclamation_mark: 1問の間違いか三角がある:
+- :bangbang: 2問の間違い
+- :x: 3問以上の間違い
 
 |  | 1 | 2 | 3 |
 |:-:|:-:|:-:|:-:|
